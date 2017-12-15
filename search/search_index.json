@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "OSG All Hands Meeting", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#osg-all-hands-meeting", 
+            "text": "", 
+            "title": "OSG All Hands Meeting"
+        }
+    ]
+}

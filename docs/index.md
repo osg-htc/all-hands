@@ -1,2 +1,0 @@
-OSG All Hands Meeting
-=====================
