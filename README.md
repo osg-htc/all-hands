@@ -2,7 +2,7 @@
 
 This repository contains the source for the OSG All Hands Meeting pages
 
-- [Github hosted](http://opensciencegrid.github.io/technology)
+- [Github hosted](http://opensciencegrid.github.io/all-hands)
 
 ## Other OSG documentation on Github
 
