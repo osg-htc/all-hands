@@ -12,6 +12,7 @@ Details on registration, costs, facilities, and so forth will be posted soon (Ja
 [agenda](https://indico.fnal.gov/event/15344/) will be developed throughout January and February.
 
 Topics include:
+
 * How OSG helps transform science through access to vast computing resources
 * OSG partnerships with resource providers, science users, and other cyberinfrastructure stakeholders
 * Challenges and OSG solutions for distributed high throughput computing applications
