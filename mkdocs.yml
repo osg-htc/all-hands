@@ -1,15 +1,12 @@
-site_name: OSG All Hands
+site_name: OSG All-Hands Meetings
 site_url: https://opensciencegrid.github.io/all-hands/
-repo_url: https://github.com/opensciencegrid/all-hands/
+repo_url: null
 theme:
-  name: readthedocs
+  name: material
 
 pages:
-  - Home: 'index.md'
+  - Home: index.md
 
 markdown_extensions:
   - admonition
-  - codehilite
   - toc(permalink=true)
-  - osg_markdown.colors
-
