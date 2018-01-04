@@ -2,7 +2,7 @@
 
 The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and the University of Utah invite you to attend:
 
-<div style="border: 1px solid rgb(63, 81, 181); background-color: rgb(231, 233, 246); padding: 1ex; font-size: 1.15rem; font-weight: bold;">
+<div style="border: 1px solid rgb(63, 81, 181); background-color: rgb(231, 233, 246); padding: 1ex; font-size: 115%; font-weight: bold;">
   19&ndash;22 March 2018
   <br>
   University of Utah, Salt Lake City
