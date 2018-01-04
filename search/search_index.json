@@ -2,13 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "OSG All Hands Meeting", 
+            "text": "OSG All-Hands Meetings\n\n\nThe Open Science Grid (OSG) has an annual All-Hands Meeting for users, resource providers, staff, and other people who\nare interested in what we do and how we do it.  The meeting is usually hosted by an OSG resource provider and varies\neach year.\n\n\nPrior to 2018, All-Hands Meeting websites were hosted at the hosting institution, and over time some of those websites\nhave been lost.  The links below are as complete as possible at this time.\n\n\n\n\nOSG All-Hands Meeting 2018, March 19\n22,\n  \nUniversity of Utah\n\n  (\nwebsite\n,\n  \nagenda\n)\n\n\nOSG All-Hands Meeting 2017, March 6\n9,\n  \nSan Diego Supercomputing Center\n\n  (\nwebsite\n,\n  \nagenda\n)", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/#osg-all-hands-meetings", 
+            "text": "The Open Science Grid (OSG) has an annual All-Hands Meeting for users, resource providers, staff, and other people who\nare interested in what we do and how we do it.  The meeting is usually hosted by an OSG resource provider and varies\neach year.  Prior to 2018, All-Hands Meeting websites were hosted at the hosting institution, and over time some of those websites\nhave been lost.  The links below are as complete as possible at this time.   OSG All-Hands Meeting 2018, March 19 22,\n   University of Utah \n  ( website ,\n   agenda )  OSG All-Hands Meeting 2017, March 6 9,\n   San Diego Supercomputing Center \n  ( website ,\n   agenda )", 
+            "title": "OSG All-Hands Meetings"
+        }, 
+        {
+            "location": "/2018/", 
+            "text": "OSG All-Hands Meeting 2018\n\n\nThe \nOpen Science Grid\n (OSG) and the University of Utah invite you to attend:\n\n\n\n  19\n22 March 2018\n  \n\n  University of Utah, Salt Lake City\n\n\n\n\nDetails on registration, costs, facilities, and so forth will be posted soon (January).  The\n\nagenda\n will be developed throughout January and February.\n\n\nTopics include:\n\n How OSG helps transform science through access to vast computing resources\n\n OSG partnerships with resource providers, science users, and other cyberinfrastructure stakeholders\n\n Challenges and OSG solutions for distributed high throughput computing applications\n\n Connecting virtual organizations, campus researchers, and XSEDE users to the OSG\n\n New and upcoming technologies, including containers, GPUs, and support for machine learning\n\n Training and education workshops\n\n\nThe OSG meeting is co-located with the US Large Hadron Collider (LHC) computing facility meetings.", 
             "title": "Home"
         }, 
         {
-            "location": "/#osg-all-hands-meeting", 
-            "text": "", 
-            "title": "OSG All Hands Meeting"
+            "location": "/2018/#osg-all-hands-meeting-2018", 
+            "text": "The  Open Science Grid  (OSG) and the University of Utah invite you to attend:  \n  19 22 March 2018\n   \n  University of Utah, Salt Lake City  Details on registration, costs, facilities, and so forth will be posted soon (January).  The agenda  will be developed throughout January and February.  Topics include:  How OSG helps transform science through access to vast computing resources  OSG partnerships with resource providers, science users, and other cyberinfrastructure stakeholders  Challenges and OSG solutions for distributed high throughput computing applications  Connecting virtual organizations, campus researchers, and XSEDE users to the OSG  New and upcoming technologies, including containers, GPUs, and support for machine learning  Training and education workshops  The OSG meeting is co-located with the US Large Hadron Collider (LHC) computing facility meetings.", 
+            "title": "OSG All-Hands Meeting 2018"
         }
     ]
 }
