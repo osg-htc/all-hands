@@ -5,9 +5,9 @@ theme:
   name: material
 
 pages:
-  - Overview: index.md
+  - Home: index.md
   - 2018:
-    - Home: 2018/index.md
+    - General Info: 2018/index.md
 
 markdown_extensions:
   - admonition
