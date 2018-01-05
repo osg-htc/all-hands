@@ -15,6 +15,7 @@ Topics include:
 
 * How OSG helps transform science through access to vast computing resources
 * OSG partnerships with resource providers, science users, and other stakeholders
+* Special focus this year on distributed data and networking
 * Challenges and OSG solutions for distributed high throughput computing applications
 * Connecting virtual organizations, campus researchers, and XSEDE users to the OSG
 * New technologies, including containers, GPUs, and support for machine learning
