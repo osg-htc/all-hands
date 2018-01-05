@@ -8,7 +8,7 @@ The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and the Universit
   University of Utah, Salt Lake City
 </div>
 
-Details on registration, costs, facilities, and so forth will be posted soon (January).  The
+Details on [hotels](hotels.md), registration, costs, facilities, and so forth will be posted soon (January).  The
 [agenda](https://indico.fnal.gov/event/15344/) will be developed throughout January and February.
 
 Topics include:

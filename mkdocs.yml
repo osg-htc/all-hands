@@ -8,6 +8,7 @@ pages:
   - Home: index.md
   - 2018:
     - General Info: 2018/index.md
+    - Hotels: 2018/hotels.md
 
 markdown_extensions:
   - admonition
