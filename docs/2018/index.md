@@ -11,7 +11,7 @@ The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and the Universit
 Details on [hotels](hotels.md), registration, costs, facilities, and so forth will be posted soon (January).  The
 [agenda](https://indico.fnal.gov/event/15344/) will be developed throughout January and February.
 
-Topics include:
+## Topics
 
 * How OSG helps transform science through access to vast computing resources
 * OSG partnerships with resource providers, science users, and other stakeholders
@@ -22,3 +22,11 @@ Topics include:
 * Training and education workshops
 
 The OSG meeting is co-located with the US Large Hadron Collider (LHC) computing facility meetings.
+
+## Contacts
+
+For questions or comments about the OSG All-Hands Meeting in 2018, please contact any of:
+
+* [Tim Cartwright](mailto:cat@cs.wisc.edu), OSG Chief of Staff
+* [Frank Würthwein](mailto:fkw@ucsd.edu), OSG Executive Director and Meeting Chair
+* [Anita Orendt](mailto:anita.orendt@utah.edu), Local Chair
