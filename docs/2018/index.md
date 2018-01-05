@@ -27,6 +27,6 @@ The OSG meeting is co-located with the US Large Hadron Collider (LHC) computing 
 
 For questions or comments about the OSG All-Hands Meeting in 2018, please contact any of:
 
-* [Tim Cartwright](cat@cs.wisc.edu), OSG Chief of Staff
-* [Frank Würthwein](fkw@ucsd.edu), OSG Executive Director and Meeting Chair
-* [Anita Orendt](anita.orendt@utah.edu), Local Chair
+* [Tim Cartwright](mailto:cat@cs.wisc.edu), OSG Chief of Staff
+* [Frank Würthwein](mailto:fkw@ucsd.edu), OSG Executive Director and Meeting Chair
+* [Anita Orendt](mailto:anita.orendt@utah.edu), Local Chair
