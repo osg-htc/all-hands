@@ -14,12 +14,12 @@ each day&rsquo;s schedule.
 
 ## Transportation
 
-Here are some links for transportation options to and from the University and around Salt Lake City:
+Here are some transportation resources for the University and Salt Lake City:
 
 * [Transportation help from the University Guest House](http://www.universityguesthouse.com/Location-Transportation)
-* [Transportation help from the University Int&rsquo;l office](http://isss.utah.edu/students/orientation-arrival/transportation.php)
+* [Transportation help from the University International office](http://isss.utah.edu/students/orientation-arrival/transportation.php)
 * [Salt Lake City International Airport](https://www.slcairport.com)
-* [Utah Transit Authority (UTA)](http://www.rideuta.com/), provider of bus and TRAX light rail in the Salt Lake City area
+* [Utah Transit Authority (UTA)](http://www.rideuta.com/)&nbsp;&ndash; bus and TRAX light rail in Salt Lake City area
 * [University of Utah shuttle bus](https://commuterservices.utah.edu/mass-transit/shuttles/) and [Live Shuttle Tracking](http://www.uofubus.com/)
 
 ## Parking
