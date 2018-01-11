@@ -9,7 +9,9 @@ Day       | Date     | Main Topics
 Monday    | March 19 | FIFE, US-ATLAS, and US-CMS meetings; evening reception
 Tuesday   | March 20 | General OSG topics; group dinner
 Wednesday | March 21 | General OSG topics
-Thursday  | March 22 | OSG training (morning only); OSG Council meeting (all day)
+Thursday  | March 22 | OSG training* (morning only); OSG Council meeting (all day)
+
+\* There will be training sessions for users and site administrators.
 
 There may be a group ski trip organized for Friday, March 23; see the [On Your Own](on-your-own.md) page for more
 information.
