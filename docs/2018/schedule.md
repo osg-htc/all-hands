@@ -11,7 +11,7 @@ Tuesday   | March 20 | General OSG topics; group dinner
 Wednesday | March 21 | General OSG topics
 Thursday  | March 22 | OSG training* (morning only); OSG Council meeting (all day)
 
-* Sessions for users and site administrators
+\* Sessions for users and site administrators
 
 There may be a group ski trip organized for Friday, March 23; see the [On Your Own](on-your-own.md) page for more
 information.
