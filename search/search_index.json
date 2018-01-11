@@ -42,7 +42,7 @@
         }, 
         {
             "location": "/2018/schedule/", 
-            "text": "OSG All-Hands Meeting 2018 \n Schedule\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting 2018 will be held March 19\n22.\n\n\nHigh-Level Schedule\n\n\n\n\n\n\n\n\nDay\n\n\nDate\n\n\nMain Topics\n\n\n\n\n\n\n\n\n\n\nMonday\n\n\nMarch 19\n\n\nFIFE, US-ATLAS, and US-CMS meetings; evening reception\n\n\n\n\n\n\nTuesday\n\n\nMarch 20\n\n\nGeneral OSG topics; group dinner\n\n\n\n\n\n\nWednesday\n\n\nMarch 21\n\n\nGeneral OSG topics\n\n\n\n\n\n\nThursday\n\n\nMarch 22\n\n\nOSG training (morning only); OSG Council meeting (all day)\n\n\n\n\n\n\n\n\nDetailed Agenda\n\n\nThe detailed agenda will be available \nin the FNAL Indico system\n once the program\nis developed further.", 
+            "text": "OSG All-Hands Meeting 2018 \n Schedule\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting 2018 will be held March 19\n22.\n\n\nHigh-Level Schedule\n\n\n\n\n\n\n\n\nDay\n\n\nDate\n\n\nMain Topics\n\n\n\n\n\n\n\n\n\n\nMonday\n\n\nMarch 19\n\n\nFIFE, US-ATLAS, and US-CMS meetings; evening reception\n\n\n\n\n\n\nTuesday\n\n\nMarch 20\n\n\nGeneral OSG topics; group dinner\n\n\n\n\n\n\nWednesday\n\n\nMarch 21\n\n\nGeneral OSG topics\n\n\n\n\n\n\nThursday\n\n\nMarch 22\n\n\nOSG training (morning only); OSG Council meeting (all day)\n\n\n\n\n\n\n\n\nThere may be a group ski trip organized for Friday, March 23; see the \nOn Your Own\n page for more\ninformation.\n\n\nDetailed Agenda\n\n\nThe detailed agenda will be available \nin the FNAL Indico system\n once the program\nis developed further.", 
             "title": "Schedule"
         }, 
         {
@@ -52,7 +52,7 @@
         }, 
         {
             "location": "/2018/schedule/#high-level-schedule", 
-            "text": "Day  Date  Main Topics      Monday  March 19  FIFE, US-ATLAS, and US-CMS meetings; evening reception    Tuesday  March 20  General OSG topics; group dinner    Wednesday  March 21  General OSG topics    Thursday  March 22  OSG training (morning only); OSG Council meeting (all day)", 
+            "text": "Day  Date  Main Topics      Monday  March 19  FIFE, US-ATLAS, and US-CMS meetings; evening reception    Tuesday  March 20  General OSG topics; group dinner    Wednesday  March 21  General OSG topics    Thursday  March 22  OSG training (morning only); OSG Council meeting (all day)     There may be a group ski trip organized for Friday, March 23; see the  On Your Own  page for more\ninformation.", 
             "title": "High-Level Schedule"
         }, 
         {
@@ -127,13 +127,23 @@
         }, 
         {
             "location": "/2018/on-your-own/", 
-            "text": "OSG All-Hands Meeting 2018 \n On Your Own\n\n\nTo be completed soon.", 
+            "text": "OSG All-Hands Meeting 2018 \n On Your Own\n\n\nIf you have some extra time, the University of Utah, Salt Lake City, and Utah are great places to visit.\n\n\nTravel Resources\n\n\nHere are a few links to Utah travel resources.  Or just search online.\n\n\n\n\nUtah Office of Tourism\n\n\nUtah Travel Industry website\n\n\nUniversity of Utah Visitors guide\n\n\nUniversity Guest House Area Attractions\n\n\n\n\nGroup Ski Trip on Friday, March 23\n\n\nWant to experience the \nGreatest Snow on Earth\n?  There are\n\nfour ski resorts\n that are close to the OSG All-Hands Meeting.\n\nTim Theisen\n, OSG Release Manager, has offered to organize a ski/snowboard trip to a nearby ski\nresort on Friday, March 23.  Let him know if you are interested, either by email or by using the checkbox on the\nregistration form.\n\n\nTim is an avid skier and a member of the National Ski Patrol.  He has skied at all four nearby resorts\n(\nAlta\n, \nSnowbird\n, \nSolitude\n, and\n\nBrighton\n) as well other resorts in the area\n(\nPark City\n and \nCanyons\n).", 
             "title": "On Your Own"
         }, 
         {
             "location": "/2018/on-your-own/#osg-all-hands-meeting-2018-on-your-own", 
-            "text": "To be completed soon.", 
+            "text": "If you have some extra time, the University of Utah, Salt Lake City, and Utah are great places to visit.", 
             "title": "OSG All-Hands Meeting 2018 &ndash; On Your Own"
+        }, 
+        {
+            "location": "/2018/on-your-own/#travel-resources", 
+            "text": "Here are a few links to Utah travel resources.  Or just search online.   Utah Office of Tourism  Utah Travel Industry website  University of Utah Visitors guide  University Guest House Area Attractions", 
+            "title": "Travel Resources"
+        }, 
+        {
+            "location": "/2018/on-your-own/#group-ski-trip-on-friday-march-23", 
+            "text": "Want to experience the  Greatest Snow on Earth ?  There are four ski resorts  that are close to the OSG All-Hands Meeting. Tim Theisen , OSG Release Manager, has offered to organize a ski/snowboard trip to a nearby ski\nresort on Friday, March 23.  Let him know if you are interested, either by email or by using the checkbox on the\nregistration form.  Tim is an avid skier and a member of the National Ski Patrol.  He has skied at all four nearby resorts\n( Alta ,  Snowbird ,  Solitude , and Brighton ) as well other resorts in the area\n( Park City  and  Canyons ).", 
+            "title": "Group Ski Trip on Friday, March 23"
         }
     ]
 }
