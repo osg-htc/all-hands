@@ -8,6 +8,7 @@ Here are a few links to Utah travel resources.  Or just search online.
 
 * [Utah Office of Tourism](https://www.visitutah.com)
 * [Utah Travel Industry website](https://utah.com)
+* [Visit Salt Lake](https://www.visitsaltlake.com)
 * [University of Utah Visitors guide](https://www.utah.edu/visitors/)
 * [University Guest House Area Attractions](http://www.universityguesthouse.com/Area-Attractions)
 
