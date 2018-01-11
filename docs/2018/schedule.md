@@ -7,7 +7,7 @@ The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting
 Day       | Date     | Main Topics
 --------- | -------- | ----------------------------------------------------------
 Monday    | March 19 | FIFE, US-ATLAS, and US-CMS meetings; evening reception
-Tuesday   | March 20 | General OSG topics; group dinner
+Tuesday   | March 20 | General OSG topics; group dinner at [Squatters Brewpub SLC](https://www.squatters.com/salt-lake-city/location.aspx)
 Wednesday | March 21 | General OSG topics
 Thursday  | March 22 | OSG training* (morning only); OSG Council meeting (all day)
 
