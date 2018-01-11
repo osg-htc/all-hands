@@ -11,6 +11,9 @@ Tuesday   | March 20 | General OSG topics; group dinner
 Wednesday | March 21 | General OSG topics
 Thursday  | March 22 | OSG training (morning only); OSG Council meeting (all day)
 
+There may be a group ski trip organized for Friday, March 23; see the [On Your Own](on-your-own.md) page for more
+information.
+
 ## Detailed Agenda
 
 The detailed agenda will be available [in the FNAL Indico system](https://indico.fnal.gov/event/15344/) once the program
