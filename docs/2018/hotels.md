@@ -21,6 +21,7 @@ Details:
 
 ## Other Nearby Hotel
 
-If you do not wish to or cannot use the block, another hotel nearby (0.9 mile walk and very near the University shuttle
-routes) is the [Salt Lake City Marrott University
-Park](http://www.marriott.com/hotels/travel/slcup-salt-lake-city-marriott-university-park/), 480 Wakara Way.
+If you do not wish to or cannot use the block, another nearby hotel&nbsp;&mdash; a 0.9 mile walk and very near the
+University shuttle routes&nbsp;&mdash; is the
+[Salt Lake City Marrott University Park](http://www.marriott.com/hotels/travel/slcup-salt-lake-city-marriott-university-park/)
+(480 Wakara Way).

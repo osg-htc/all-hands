@@ -4,7 +4,7 @@ If you have some extra time, the University of Utah, Salt Lake City, and Utah ar
 
 ## Travel Resources
 
-Here are a few links to Utah travel resources.  Or just search online.
+There are many resources for travel in Utah, here are a few to get started:
 
 * [Utah Office of Tourism](https://www.visitutah.com)
 * [Utah Travel Industry website](https://utah.com)
