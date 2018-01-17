@@ -8,7 +8,7 @@ you to attend:
   <br>
   March 19&ndash;22
   <br>
-  University of Utah, Salt Lake City
+  Officers Club, University of Utah, Salt Lake City
 </div>
 
 Details on [schedule](schedule.md), [hotels](hotels.md), [costs](registration.md), [registration](registration.md),
