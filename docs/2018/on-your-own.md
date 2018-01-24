@@ -11,6 +11,7 @@ There are many resources for travel in Utah, here are a few to get started:
 * [Visit Salt Lake](https://www.visitsaltlake.com)
 * [University of Utah Visitors guide](https://www.utah.edu/visitors/)
 * [University Guest House Area Attractions](http://www.universityguesthouse.com/Area-Attractions)
+* [University Guest House list of nearby restaurants and bars](http://www.universityguesthouse.com/Dining)
 
 ## Group Ski Trip on Friday, March 23
 

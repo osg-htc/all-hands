@@ -9,8 +9,8 @@ The OSG All-Hands Meeting 2018 has the following costs:
 * Full-day OSG Council registration (Thursday): $xx
 * Group dinner (Tuesday): $xx per person
 
-Note that daily registration includes coffee and tea throughout each day, light snacks in mid-morning, and lunch.
-Monday registration includes an evening reception with hors d&rsquo;oeuvres and drinks.
+Note that daily registration includes coffee and tea throughout each day, lunch, and light snacks in mid-morning and
+mid-afternoon.  Monday registration includes an evening reception with hors d&rsquo;oeuvres and drinks.
 
 ## Registration
 
