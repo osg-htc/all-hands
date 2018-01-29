@@ -20,3 +20,5 @@ information.
 
 The detailed agenda will be available [in the FNAL Indico system](https://indico.fnal.gov/event/15344/) once the program
 is developed further.
+
+The agenda for the US ATLAS Facilities Meeting is on their [CERN Indico page](https://indico.cern.ch/event/697806/).
