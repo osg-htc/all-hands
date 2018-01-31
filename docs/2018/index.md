@@ -11,9 +11,9 @@ you to attend:
   Officers Club, University of Utah, Salt Lake City
 </div>
 
-Details on [schedule](schedule.md), [hotels](hotels.md), [costs](registration.md), [registration](registration.md),
-[local arrangements](local.md), and [things to do on your own](on-your-own.md) will be posted in early January.  The
-[agenda](https://indico.fnal.gov/event/15344/) will be developed throughout January and February.
+Details are available from the menu on the left.
+
+The [agenda](https://indico.fnal.gov/event/15344/) will be developed throughout January and February.
 
 ## Topics
 

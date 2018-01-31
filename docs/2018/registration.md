@@ -14,4 +14,5 @@ mid-afternoon.  Monday registration includes an evening reception with hors d&rs
 
 ## Registration
 
-(Registration is not available yet, but will be soon.)
+To register, visit [https://www.regonline.com/OSGallhandsmtg2018](https://www.regonline.com/OSGallhandsmtg2018).  The
+link will take you to RegOnline, which is the University of Utah&rsquo;s online event registration partner.
