@@ -12,7 +12,7 @@ Officers Club and therefore convenient for attendees.
 
 Details:
 
-* Block rates are available through 17 February 2018 at 5 p.m. (MST)
+* Block rates are available through 3 March 2018 at 5 p.m. (MST)
 * Call (888)&nbsp;416-4075 and mention &ldquo;OSG All-Hands Meeting&rdquo; to get the special rate
 * Special rate: $110/night + taxes (12.6%) for single or double occupancy
 * This rate will be honored 3 days before and after the event dates
