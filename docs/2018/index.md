@@ -13,7 +13,7 @@ you to attend:
 
 Details are available from the menu on the left.
 
-The [agenda](https://indico.fnal.gov/event/15344/) will be developed throughout January and February.
+[The detailed agenda](https://indico.fnal.gov/event/15344/timetable/) is available on the Fermilab Indico system.
 
 ## Topics
 
