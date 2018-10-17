@@ -1,5 +1,5 @@
 site_name: OSG All-Hands Meetings
-site_url: https://opensciencegrid.github.io/all-hands/
+site_url: https://opensciencegrid.org/all-hands/
 repo_url: null
 theme:
   name: material
@@ -7,6 +7,8 @@ theme:
 
 pages:
   - Home: index.md
+  - 2019:
+    - General Info: 2019/index.md
   - 2018:
     - General Info: 2018/index.md
     - Schedule: 2018/schedule.md

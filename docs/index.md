@@ -6,11 +6,16 @@ an OSG resource provider and so the location varies each year.
 
 ## Upcoming Meeting
 
-The [OSG All-Hands Meeting 2018](/2018/index.md) will be held March 19&ndash;22 at [University of
-Utah](https://www.utah.edu/).  The [agenda](https://indico.fnal.gov/event/15344/) will be detailed soon.
+The [OSG All-Hands Meeting 2019](/2019/index.md) will be held March 18&ndash;21 at [Thomas Jefferson National
+Accelerator Facility](https://www.jlab.org); the meeting will be held jointly with the Worldwide LHC Computing Grid
+(WLCG) and HEP Software Foundation (HSF) Workshop, providing extra opportunities to interact with members of the
+high-energy physics (HEP) computing community.
 
 ## Prior Events
 
+* [OSG All-Hands Meeting 2018](/2018/index.md),
+  [University of Utah](https://www.utah.edu/)
+  ([agenda](https://indico.fnal.gov/event/15344/))
 * [OSG All-Hands Meeting 2017](https://www.eiseverywhere.com/ehome/221621),
   [San Diego Supercomputer Center](http://www.sdsc.edu/)
   ([agenda](https://indico.fnal.gov/event/12973/))
