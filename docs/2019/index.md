@@ -11,12 +11,12 @@ Facility](https://www.jlab.org) (JLab) invite you to attend:
   Thomas Jefferson National Accelerator Facility, Newport News, VA
 </div>
 
-*The meeting will be held jointly with the Worldwide LHC Computing Grid (WLCG) and HEP Software Foundation (HSF)
-Workshop,* providing extra opportunities to interact with members of the high-energy physics (HEP) computing community.
+**The meeting will be held jointly with the Worldwide LHC Computing Grid (WLCG) and HEP Software Foundation (HSF)
+Workshop,** providing extra opportunities to interact with members of the high-energy physics (HEP) computing community.
 
 Details about the meeting are expected to be available in early 2019.
 
-*Note:* Due to the joint meeting, the macro-schedule of OSG AHM days and topics may be different this year.  For
+**Note:** Due to the joint meeting, the macro-schedule of OSG AHM days and topics may be different this year.  For
 instance, the usual Monday schedule of US-ATLAS, US-CMS, and FIFE sessions may be held on a different day of the week.
 We will post information about the macro-schedule as soon as possible.
 
