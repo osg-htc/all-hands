@@ -8,7 +8,7 @@ Facility](https://www.jlab.org) (JLab) invite you to attend:
   <br>
   March 18&ndash;21
   <br>
-  Thomas Jefferson National Accelerator Facility
+  Thomas Jefferson National Accelerator Facility, Newport News, VA
 </div>
 
 *The meeting will be held jointly with the Worldwide LHC Computing Grid (WLCG) and HEP Software Foundation (HSF)
