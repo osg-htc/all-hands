@@ -22,7 +22,7 @@ for details.
 
 * [Workshop home page](https://indico.cern.ch/e/how2019)
 * [Workshop timetable](https://indico.cern.ch/event/759388/timetable/)
-* [Registration - Part 1](https://indico.cern.ch/event/759388/registrations/47288/}
+* [Registration - Part 1](https://indico.cern.ch/event/759388/registrations/47288/)
 * [Registration - Part 2](https://misportal.jlab.org/Ul/conferences/generic_conference/registration.cfm?conference_id=WLCG-HSF2019)
 * [Hotel information](https://indico.cern.ch/event/759388/page/15517-accommodation)
 * [Visiting Jefforson Lab](https://www.jlab.org/visiting)
