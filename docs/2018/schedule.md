@@ -13,7 +13,7 @@ Thursday  | March 22 | OSG training* (morning only); OSG Council meeting (all da
 
 \* There will be training sessions for users and site administrators.
 
-There may be a group ski trip organized for Friday, March 23; see the [On Your Own](on-your-own.md) page for more
+There may be a group ski trip organized for Friday, March 23; see the [On Your Own](/2018/on-your-own.md) page for more
 information.
 
 ## Detailed Agendas

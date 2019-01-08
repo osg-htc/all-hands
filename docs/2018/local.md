@@ -3,7 +3,7 @@
 The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting 2018 will be held March 19&ndash;22 at
 the [University of Utah](https://www.utah.edu/).
 
-For information about hotels, please see the [hotels page](hotels.md).
+For information about hotels, please see the [hotels page](/2018/hotels.md).
 
 ## Conference Venue
 
