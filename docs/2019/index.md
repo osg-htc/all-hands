@@ -4,21 +4,28 @@ The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and [Thomas Jeffe
 Facility](https://www.jlab.org) (JLab) invite you to attend:
 
 <div style="border: 1px solid #3F51B5; color: #20295A; background-color: #E7E9F6; padding: 1ex; font-size: 115%; font-weight: bold;">
-  OSG All-Hands Meeting (AHM) 2019
+  HSF, OSG, and WLCG Workshop (HOW2019)
   <br>
-  March 18&ndash;21
+  March 18&ndash;22
   <br>
   Thomas Jefferson National Accelerator Facility, Newport News, VA
 </div>
 
-**The meeting will be held jointly with the Worldwide LHC Computing Grid (WLCG) and HEP Software Foundation (HSF)
-Workshop,** providing extra opportunities to interact with members of the high-energy physics (HEP) computing community.
+The traditional **OSG All-Hands Meeting** is incorporated into this joint workshop, while providing extra opportunities
+to interact with members of the high-energy physics (HEP) computing community.
 
-Details about the meeting are expected to be available in early 2019.
+**Note:** Due to the joint meeting, the overall schedule of OSG topics is different this year.  For instance, the usual
+Monday schedule of US-ATLAS, US-CMS, and FIFE sessions has changed.  Please check the timetable (link below) carefully
+for details.
 
-**Note:** Due to the joint meeting, the macro-schedule of OSG AHM days and topics may be different this year.  For
-instance, the usual Monday schedule of US-ATLAS, US-CMS, and FIFE sessions may be held on a different day of the week.
-We will post information about the macro-schedule as soon as possible.
+## Links to Further Information
+
+* [Workshop home page](https://indico.cern.ch/e/how2019)
+* [Workshop timetable](https://indico.cern.ch/event/759388/timetable/)
+* [Registration - Part 1](https://indico.cern.ch/event/759388/registrations/47288/}
+* [Registration - Part 2](https://misportal.jlab.org/Ul/conferences/generic_conference/registration.cfm?conference_id=WLCG-HSF2019)
+* [Hotel information](https://indico.cern.ch/event/759388/page/15517-accommodation)
+* [Visiting Jefforson Lab](https://www.jlab.org/visiting)
 
 ## Topics
 
@@ -34,5 +41,5 @@ We will post information about the macro-schedule as soon as possible.
 
 For questions or comments:
 
-* [Tim Cartwright](mailto:cat@cs.wisc.edu), OSG Chief of Staff
-* [Frank Würthwein](mailto:fkw@ucsd.edu), OSG Executive Director and AHM Meeting Chair
+* [Tim Cartwright](mailto:cat@cs.wisc.edu), OSG Deputy Executive Director
+* [Frank Würthwein](mailto:fkw@ucsd.edu), OSG Executive Director
