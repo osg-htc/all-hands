@@ -1,173 +1,183 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "OSG All-Hands Meetings\n\n\nThe \nOpen Science Grid\n (OSG) has an annual All-Hands Meeting for users, resource\nproviders, staff, and other people who are interested in what we do and how we do it.  The meeting is usually hosted by\nan OSG resource provider and so the location varies each year.\n\n\nUpcoming Meeting\n\n\nThe \nOSG All-Hands Meeting 2019\n will be held March 18\n21 at \nThomas Jefferson National\nAccelerator Facility\n; the meeting will be held jointly with the Worldwide LHC Computing Grid\n(WLCG) and HEP Software Foundation (HSF) Workshop, providing extra opportunities to interact with members of the\nhigh-energy physics (HEP) computing community.\n\n\nPrior Events\n\n\n\n\nOSG All-Hands Meeting 2018\n,\n  \nUniversity of Utah\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2017\n,\n  \nSan Diego Supercomputer Center\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2016,\n  \nClemson University\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2015\n,\n  \nNorthwestern University\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2014\n,\n  \nSLAC National Accelerator Laboratory\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2013,\n  \nIndiana University\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2012,\n  \nUniversity of Nebraska\nLincoln\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2011\n,\n  \nHarvard Medical School\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2010,\n  \nFermi National Accelerator Laboratory\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2009,\n  \nCalifornia Institute of Technology, LIGO\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2008,\n  \nUniversity of North Carolina\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2007,\n  \nSan Diego Supercomputer Center\n\n  (\nagenda\n)", 
+            "location": "/",
+            "text": "OSG All-Hands Meetings\n\u00b6\n\n\nThe \nOpen Science Grid\n (OSG) has an annual All-Hands Meeting for users, resource\nproviders, staff, and other people who are interested in what we do and how we do it.  The meeting is usually hosted by\nan OSG resource provider and so the location varies each year.\n\n\nUpcoming Meeting\n\u00b6\n\n\nThe \nOSG All-Hands Meeting 2019\n will be held March 18\u201321 at \nThomas Jefferson National\nAccelerator Facility\n; the meeting will be held jointly with the Worldwide LHC Computing Grid\n(WLCG) and HEP Software Foundation (HSF) Workshop, providing extra opportunities to interact with members of the\nhigh-energy physics (HEP) computing community.\n\n\nPrior Events\n\u00b6\n\n\n\n\nOSG All-Hands Meeting 2018\n,\n  \nUniversity of Utah\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2017\n,\n  \nSan Diego Supercomputer Center\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2016,\n  \nClemson University\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2015\n,\n  \nNorthwestern University\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2014\n,\n  \nSLAC National Accelerator Laboratory\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2013,\n  \nIndiana University\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2012,\n  \nUniversity of Nebraska\u2013Lincoln\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2011\n,\n  \nHarvard Medical School\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2010,\n  \nFermi National Accelerator Laboratory\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2009,\n  \nCalifornia Institute of Technology, LIGO\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2008,\n  \nUniversity of North Carolina\n\n  (\nagenda\n)\n\n\nOSG All-Hands Meeting 2007,\n  \nSan Diego Supercomputer Center\n\n  (\nagenda\n)",
             "title": "Home"
-        }, 
+        },
         {
-            "location": "/#osg-all-hands-meetings", 
-            "text": "The  Open Science Grid  (OSG) has an annual All-Hands Meeting for users, resource\nproviders, staff, and other people who are interested in what we do and how we do it.  The meeting is usually hosted by\nan OSG resource provider and so the location varies each year.", 
+            "location": "/#osg-all-hands-meetings",
+            "text": "The  Open Science Grid  (OSG) has an annual All-Hands Meeting for users, resource\nproviders, staff, and other people who are interested in what we do and how we do it.  The meeting is usually hosted by\nan OSG resource provider and so the location varies each year.",
             "title": "OSG All-Hands Meetings"
-        }, 
+        },
         {
-            "location": "/#upcoming-meeting", 
-            "text": "The  OSG All-Hands Meeting 2019  will be held March 18 21 at  Thomas Jefferson National\nAccelerator Facility ; the meeting will be held jointly with the Worldwide LHC Computing Grid\n(WLCG) and HEP Software Foundation (HSF) Workshop, providing extra opportunities to interact with members of the\nhigh-energy physics (HEP) computing community.", 
+            "location": "/#upcoming-meeting",
+            "text": "The  OSG All-Hands Meeting 2019  will be held March 18\u201321 at  Thomas Jefferson National\nAccelerator Facility ; the meeting will be held jointly with the Worldwide LHC Computing Grid\n(WLCG) and HEP Software Foundation (HSF) Workshop, providing extra opportunities to interact with members of the\nhigh-energy physics (HEP) computing community.",
             "title": "Upcoming Meeting"
-        }, 
+        },
         {
-            "location": "/#prior-events", 
-            "text": "OSG All-Hands Meeting 2018 ,\n   University of Utah \n  ( agenda )  OSG All-Hands Meeting 2017 ,\n   San Diego Supercomputer Center \n  ( agenda )  OSG All-Hands Meeting 2016,\n   Clemson University \n  ( agenda )  OSG All-Hands Meeting 2015 ,\n   Northwestern University \n  ( agenda )  OSG All-Hands Meeting 2014 ,\n   SLAC National Accelerator Laboratory \n  ( agenda )  OSG All-Hands Meeting 2013,\n   Indiana University \n  ( agenda )  OSG All-Hands Meeting 2012,\n   University of Nebraska Lincoln \n  ( agenda )  OSG All-Hands Meeting 2011 ,\n   Harvard Medical School \n  ( agenda )  OSG All-Hands Meeting 2010,\n   Fermi National Accelerator Laboratory \n  ( agenda )  OSG All-Hands Meeting 2009,\n   California Institute of Technology, LIGO \n  ( agenda )  OSG All-Hands Meeting 2008,\n   University of North Carolina \n  ( agenda )  OSG All-Hands Meeting 2007,\n   San Diego Supercomputer Center \n  ( agenda )", 
+            "location": "/#prior-events",
+            "text": "OSG All-Hands Meeting 2018 ,\n   University of Utah \n  ( agenda )  OSG All-Hands Meeting 2017 ,\n   San Diego Supercomputer Center \n  ( agenda )  OSG All-Hands Meeting 2016,\n   Clemson University \n  ( agenda )  OSG All-Hands Meeting 2015 ,\n   Northwestern University \n  ( agenda )  OSG All-Hands Meeting 2014 ,\n   SLAC National Accelerator Laboratory \n  ( agenda )  OSG All-Hands Meeting 2013,\n   Indiana University \n  ( agenda )  OSG All-Hands Meeting 2012,\n   University of Nebraska\u2013Lincoln \n  ( agenda )  OSG All-Hands Meeting 2011 ,\n   Harvard Medical School \n  ( agenda )  OSG All-Hands Meeting 2010,\n   Fermi National Accelerator Laboratory \n  ( agenda )  OSG All-Hands Meeting 2009,\n   California Institute of Technology, LIGO \n  ( agenda )  OSG All-Hands Meeting 2008,\n   University of North Carolina \n  ( agenda )  OSG All-Hands Meeting 2007,\n   San Diego Supercomputer Center \n  ( agenda )",
             "title": "Prior Events"
-        }, 
+        },
         {
-            "location": "/2019/", 
-            "text": "OSG All-Hands Meeting 2019\n\n\nThe \nOpen Science Grid\n (OSG) and \nThomas Jefferson National Accelerator\nFacility\n (JLab) invite you to attend:\n\n\n\n  HSF, OSG, and WLCG Workshop (HOW2019)\n  \n\n  March 18\n22\n  \n\n  Thomas Jefferson National Accelerator Facility, Newport News, VA\n\n\n\n\nThe traditional \nOSG All-Hands Meeting\n is incorporated into this joint workshop, while providing extra opportunities\nto interact with members of the high-energy physics (HEP) computing community.\n\n\nNote:\n Due to the joint meeting, the overall schedule of OSG topics is different this year.  For instance, the usual\nMonday schedule of US-ATLAS, US-CMS, and FIFE sessions has changed.  Please check the timetable (link below) carefully\nfor details.\n\n\nLinks to Further Information\n\n\n\n\nWorkshop home page\n\n\nWorkshop timetable\n\n\nRegistration - Part 1\n\n\nRegistration - Part 2\n\n\nHotel information\n\n\nVisiting Jefforson Lab\n\n\n\n\nTopics\n\n\n\n\nHow OSG helps transform science through access to vast computing resources\n\n\nOSG partnerships with resource providers, science users, and other stakeholders\n\n\nSpecial focus this year on distributed data and networking\n\n\nChallenges and OSG solutions for distributed high throughput computing applications\n\n\nConnecting virtual organizations, campus researchers, and XSEDE users to the OSG\n\n\nNew technologies, including containers, GPUs, and support for machine learning\n\n\nTraining and education workshops\n\n\n\n\nContacts\n\n\nFor questions or comments:\n\n\n\n\nTim Cartwright\n, OSG Deputy Executive Director\n\n\nFrank W\u00fcrthwein\n, OSG Executive Director", 
+            "location": "/2020/",
+            "text": "OSG All-Hands Meeting 2020\n\u00b6\n\n\nThe \nOpen Science Grid\n (OSG) and the University of Oklahoma invite you to attend:\n\n\n\n  16\u201319 March 2020\n  \n\n  The University of Oklahoma, Norman, OK\n\n\n\n\nDetails on registration, costs, facilities, and so forth will be posted soon (January).  The\n\nagenda\n will be developed throughout January and February.\n\n\nMore information coming soon!",
             "title": "General Info"
-        }, 
+        },
         {
-            "location": "/2019/#osg-all-hands-meeting-2019", 
-            "text": "The  Open Science Grid  (OSG) and  Thomas Jefferson National Accelerator\nFacility  (JLab) invite you to attend:  \n  HSF, OSG, and WLCG Workshop (HOW2019)\n   \n  March 18 22\n   \n  Thomas Jefferson National Accelerator Facility, Newport News, VA  The traditional  OSG All-Hands Meeting  is incorporated into this joint workshop, while providing extra opportunities\nto interact with members of the high-energy physics (HEP) computing community.  Note:  Due to the joint meeting, the overall schedule of OSG topics is different this year.  For instance, the usual\nMonday schedule of US-ATLAS, US-CMS, and FIFE sessions has changed.  Please check the timetable (link below) carefully\nfor details.", 
+            "location": "/2020/#osg-all-hands-meeting-2020",
+            "text": "The  Open Science Grid  (OSG) and the University of Oklahoma invite you to attend:  \n  16\u201319 March 2020\n   \n  The University of Oklahoma, Norman, OK  Details on registration, costs, facilities, and so forth will be posted soon (January).  The agenda  will be developed throughout January and February.  More information coming soon!",
+            "title": "OSG All-Hands Meeting 2020"
+        },
+        {
+            "location": "/2019/",
+            "text": "OSG All-Hands Meeting 2019\n\u00b6\n\n\nThe \nOpen Science Grid\n (OSG) and \nThomas Jefferson National Accelerator\nFacility\n (JLab) invite you to attend:\n\n\n\n  HSF, OSG, and WLCG Workshop (HOW2019)\n  \n\n  March 18\u201322\n  \n\n  Thomas Jefferson National Accelerator Facility, Newport News, VA\n\n\n\n\nThe traditional \nOSG All-Hands Meeting\n is incorporated into this joint workshop, while providing extra opportunities\nto interact with members of the high-energy physics (HEP) computing community.\n\n\nNote:\n Due to the joint meeting, the overall schedule of OSG topics is different this year.  For instance, the usual\nMonday schedule of US-ATLAS, US-CMS, and FIFE sessions has changed.  Please check the timetable (link below) carefully\nfor details.\n\n\nLinks to Further Information\n\u00b6\n\n\n\n\nWorkshop home page\n\n\nWorkshop timetable\n\n\nRegistration - Part 1\n\n\nRegistration - Part 2\n\n\nHotel information\n\n\nVisiting Jefforson Lab\n\n\n\n\nTopics\n\u00b6\n\n\n\n\nHow OSG helps transform science through access to vast computing resources\n\n\nOSG partnerships with resource providers, science users, and other stakeholders\n\n\nSpecial focus this year on distributed data and networking\n\n\nChallenges and OSG solutions for distributed high throughput computing applications\n\n\nConnecting virtual organizations, campus researchers, and XSEDE users to the OSG\n\n\nNew technologies, including containers, GPUs, and support for machine learning\n\n\nTraining and education workshops\n\n\n\n\nContacts\n\u00b6\n\n\nFor questions or comments:\n\n\n\n\nTim Cartwright\n, OSG Deputy Executive Director\n\n\nFrank W\u00fcrthwein\n, OSG Executive Director",
+            "title": "General Info"
+        },
+        {
+            "location": "/2019/#osg-all-hands-meeting-2019",
+            "text": "The  Open Science Grid  (OSG) and  Thomas Jefferson National Accelerator\nFacility  (JLab) invite you to attend:  \n  HSF, OSG, and WLCG Workshop (HOW2019)\n   \n  March 18\u201322\n   \n  Thomas Jefferson National Accelerator Facility, Newport News, VA  The traditional  OSG All-Hands Meeting  is incorporated into this joint workshop, while providing extra opportunities\nto interact with members of the high-energy physics (HEP) computing community.  Note:  Due to the joint meeting, the overall schedule of OSG topics is different this year.  For instance, the usual\nMonday schedule of US-ATLAS, US-CMS, and FIFE sessions has changed.  Please check the timetable (link below) carefully\nfor details.",
             "title": "OSG All-Hands Meeting 2019"
-        }, 
+        },
         {
-            "location": "/2019/#links-to-further-information", 
-            "text": "Workshop home page  Workshop timetable  Registration - Part 1  Registration - Part 2  Hotel information  Visiting Jefforson Lab", 
+            "location": "/2019/#links-to-further-information",
+            "text": "Workshop home page  Workshop timetable  Registration - Part 1  Registration - Part 2  Hotel information  Visiting Jefforson Lab",
             "title": "Links to Further Information"
-        }, 
+        },
         {
-            "location": "/2019/#topics", 
-            "text": "How OSG helps transform science through access to vast computing resources  OSG partnerships with resource providers, science users, and other stakeholders  Special focus this year on distributed data and networking  Challenges and OSG solutions for distributed high throughput computing applications  Connecting virtual organizations, campus researchers, and XSEDE users to the OSG  New technologies, including containers, GPUs, and support for machine learning  Training and education workshops", 
+            "location": "/2019/#topics",
+            "text": "How OSG helps transform science through access to vast computing resources  OSG partnerships with resource providers, science users, and other stakeholders  Special focus this year on distributed data and networking  Challenges and OSG solutions for distributed high throughput computing applications  Connecting virtual organizations, campus researchers, and XSEDE users to the OSG  New technologies, including containers, GPUs, and support for machine learning  Training and education workshops",
             "title": "Topics"
-        }, 
+        },
         {
-            "location": "/2019/#contacts", 
-            "text": "For questions or comments:   Tim Cartwright , OSG Deputy Executive Director  Frank W\u00fcrthwein , OSG Executive Director", 
+            "location": "/2019/#contacts",
+            "text": "For questions or comments:   Tim Cartwright , OSG Deputy Executive Director  Frank W\u00fcrthwein , OSG Executive Director",
             "title": "Contacts"
-        }, 
+        },
         {
-            "location": "/2018/", 
-            "text": "OSG All-Hands Meeting 2018\n\n\nThe \nOpen Science Grid\n (OSG) and the \nUniversity of Utah\n invite\nyou to attend:\n\n\n\n  OSG All-Hands Meeting (AHM) 2018\n  \n\n  March 19\n22\n  \n\n  Officers Club, University of Utah, Salt Lake City\n\n\n\n\nDetails are available from the menu on the left.\n\n\nThe detailed agenda\n is available on the Fermilab Indico system.\n\n\nTopics\n\n\n\n\nHow OSG helps transform science through access to vast computing resources\n\n\nOSG partnerships with resource providers, science users, and other stakeholders\n\n\nSpecial focus this year on distributed data and networking\n\n\nChallenges and OSG solutions for distributed high throughput computing applications\n\n\nConnecting virtual organizations, campus researchers, and XSEDE users to the OSG\n\n\nNew technologies, including containers, GPUs, and support for machine learning\n\n\nTraining and education workshops\n\n\n\n\nThe OSG meeting is co-located with the US Large Hadron Collider (LHC) computing facility meetings.\n\n\nContacts\n\n\nFor questions or comments:\n\n\n\n\nTim Cartwright\n, OSG Chief of Staff\n\n\nFrank W\u00fcrthwein\n, OSG Executive Director and Meeting Chair\n\n\nAnita Orendt\n, Local Chair", 
+            "location": "/2018/",
+            "text": "OSG All-Hands Meeting 2018\n\u00b6\n\n\nThe \nOpen Science Grid\n (OSG) and the \nUniversity of Utah\n invite\nyou to attend:\n\n\n\n  OSG All-Hands Meeting (AHM) 2018\n  \n\n  March 19\u201322\n  \n\n  Officers Club, University of Utah, Salt Lake City\n\n\n\n\nDetails are available from the menu on the left.\n\n\nThe detailed agenda\n is available on the Fermilab Indico system.\n\n\nTopics\n\u00b6\n\n\n\n\nHow OSG helps transform science through access to vast computing resources\n\n\nOSG partnerships with resource providers, science users, and other stakeholders\n\n\nSpecial focus this year on distributed data and networking\n\n\nChallenges and OSG solutions for distributed high throughput computing applications\n\n\nConnecting virtual organizations, campus researchers, and XSEDE users to the OSG\n\n\nNew technologies, including containers, GPUs, and support for machine learning\n\n\nTraining and education workshops\n\n\n\n\nThe OSG meeting is co-located with the US Large Hadron Collider (LHC) computing facility meetings.\n\n\nContacts\n\u00b6\n\n\nFor questions or comments:\n\n\n\n\nTim Cartwright\n, OSG Chief of Staff\n\n\nFrank W\u00fcrthwein\n, OSG Executive Director and Meeting Chair\n\n\nAnita Orendt\n, Local Chair",
             "title": "General Info"
-        }, 
+        },
         {
-            "location": "/2018/#osg-all-hands-meeting-2018", 
-            "text": "The  Open Science Grid  (OSG) and the  University of Utah  invite\nyou to attend:  \n  OSG All-Hands Meeting (AHM) 2018\n   \n  March 19 22\n   \n  Officers Club, University of Utah, Salt Lake City  Details are available from the menu on the left.  The detailed agenda  is available on the Fermilab Indico system.", 
+            "location": "/2018/#osg-all-hands-meeting-2018",
+            "text": "The  Open Science Grid  (OSG) and the  University of Utah  invite\nyou to attend:  \n  OSG All-Hands Meeting (AHM) 2018\n   \n  March 19\u201322\n   \n  Officers Club, University of Utah, Salt Lake City  Details are available from the menu on the left.  The detailed agenda  is available on the Fermilab Indico system.",
             "title": "OSG All-Hands Meeting 2018"
-        }, 
+        },
         {
-            "location": "/2018/#topics", 
-            "text": "How OSG helps transform science through access to vast computing resources  OSG partnerships with resource providers, science users, and other stakeholders  Special focus this year on distributed data and networking  Challenges and OSG solutions for distributed high throughput computing applications  Connecting virtual organizations, campus researchers, and XSEDE users to the OSG  New technologies, including containers, GPUs, and support for machine learning  Training and education workshops   The OSG meeting is co-located with the US Large Hadron Collider (LHC) computing facility meetings.", 
+            "location": "/2018/#topics",
+            "text": "How OSG helps transform science through access to vast computing resources  OSG partnerships with resource providers, science users, and other stakeholders  Special focus this year on distributed data and networking  Challenges and OSG solutions for distributed high throughput computing applications  Connecting virtual organizations, campus researchers, and XSEDE users to the OSG  New technologies, including containers, GPUs, and support for machine learning  Training and education workshops   The OSG meeting is co-located with the US Large Hadron Collider (LHC) computing facility meetings.",
             "title": "Topics"
-        }, 
+        },
         {
-            "location": "/2018/#contacts", 
-            "text": "For questions or comments:   Tim Cartwright , OSG Chief of Staff  Frank W\u00fcrthwein , OSG Executive Director and Meeting Chair  Anita Orendt , Local Chair", 
+            "location": "/2018/#contacts",
+            "text": "For questions or comments:   Tim Cartwright , OSG Chief of Staff  Frank W\u00fcrthwein , OSG Executive Director and Meeting Chair  Anita Orendt , Local Chair",
             "title": "Contacts"
-        }, 
+        },
         {
-            "location": "/2018/schedule/", 
-            "text": "OSG All-Hands Meeting 2018 \n Schedule\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting 2018 will be held March 19\n22.\n\n\nHigh-Level Schedule\n\n\n\n\n\n\n\n\nDay\n\n\nDate\n\n\nMain Topics\n\n\n\n\n\n\n\n\n\n\nMonday\n\n\nMarch 19\n\n\nFIFE, US-ATLAS, and US-CMS meetings; evening reception\n\n\n\n\n\n\nTuesday\n\n\nMarch 20\n\n\nGeneral OSG topics; group dinner at \nSquatters Brewpub SLC\n\n\n\n\n\n\nWednesday\n\n\nMarch 21\n\n\nGeneral OSG topics\n\n\n\n\n\n\nThursday\n\n\nMarch 22\n\n\nOSG training* (morning only); OSG Council meeting (all day)\n\n\n\n\n\n\n\n\n* There will be training sessions for users and site administrators.\n\n\nThere may be a group ski trip organized for Friday, March 23; see the \nOn Your Own\n page for more\ninformation.\n\n\nDetailed Agendas\n\n\nThe detailed agenda\n is available on the Fermilab Indico system.\n\n\nThe agenda for the US ATLAS Facilities Meeting is on their \nCERN Indico page\n.", 
+            "location": "/2018/schedule/",
+            "text": "OSG All-Hands Meeting 2018 \u2013 Schedule\n\u00b6\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting 2018 will be held March 19\u201322.\n\n\nHigh-Level Schedule\n\u00b6\n\n\n\n\n\n\n\n\nDay\n\n\nDate\n\n\nMain Topics\n\n\n\n\n\n\n\n\n\n\nMonday\n\n\nMarch 19\n\n\nFIFE, US-ATLAS, and US-CMS meetings; evening reception\n\n\n\n\n\n\nTuesday\n\n\nMarch 20\n\n\nGeneral OSG topics; group dinner at \nSquatters Brewpub SLC\n\n\n\n\n\n\nWednesday\n\n\nMarch 21\n\n\nGeneral OSG topics\n\n\n\n\n\n\nThursday\n\n\nMarch 22\n\n\nOSG training* (morning only); OSG Council meeting (all day)\n\n\n\n\n\n\n\n\n* There will be training sessions for users and site administrators.\n\n\nThere may be a group ski trip organized for Friday, March 23; see the \nOn Your Own\n page for more\ninformation.\n\n\nDetailed Agendas\n\u00b6\n\n\nThe detailed agenda\n is available on the Fermilab Indico system.\n\n\nThe agenda for the US ATLAS Facilities Meeting is on their \nCERN Indico page\n.",
             "title": "Schedule"
-        }, 
+        },
         {
-            "location": "/2018/schedule/#osg-all-hands-meeting-2018-schedule", 
-            "text": "The  Open Science Grid  (OSG) All-Hands Meeting 2018 will be held March 19 22.", 
+            "location": "/2018/schedule/#osg-all-hands-meeting-2018-schedule",
+            "text": "The  Open Science Grid  (OSG) All-Hands Meeting 2018 will be held March 19\u201322.",
             "title": "OSG All-Hands Meeting 2018 &ndash; Schedule"
-        }, 
+        },
         {
-            "location": "/2018/schedule/#high-level-schedule", 
-            "text": "Day  Date  Main Topics      Monday  March 19  FIFE, US-ATLAS, and US-CMS meetings; evening reception    Tuesday  March 20  General OSG topics; group dinner at  Squatters Brewpub SLC    Wednesday  March 21  General OSG topics    Thursday  March 22  OSG training* (morning only); OSG Council meeting (all day)     * There will be training sessions for users and site administrators.  There may be a group ski trip organized for Friday, March 23; see the  On Your Own  page for more\ninformation.", 
+            "location": "/2018/schedule/#high-level-schedule",
+            "text": "Day  Date  Main Topics      Monday  March 19  FIFE, US-ATLAS, and US-CMS meetings; evening reception    Tuesday  March 20  General OSG topics; group dinner at  Squatters Brewpub SLC    Wednesday  March 21  General OSG topics    Thursday  March 22  OSG training* (morning only); OSG Council meeting (all day)     * There will be training sessions for users and site administrators.  There may be a group ski trip organized for Friday, March 23; see the  On Your Own  page for more\ninformation.",
             "title": "High-Level Schedule"
-        }, 
+        },
         {
-            "location": "/2018/schedule/#detailed-agendas", 
-            "text": "The detailed agenda  is available on the Fermilab Indico system.  The agenda for the US ATLAS Facilities Meeting is on their  CERN Indico page .", 
+            "location": "/2018/schedule/#detailed-agendas",
+            "text": "The detailed agenda  is available on the Fermilab Indico system.  The agenda for the US ATLAS Facilities Meeting is on their  CERN Indico page .",
             "title": "Detailed Agendas"
-        }, 
+        },
         {
-            "location": "/2018/registration/", 
-            "text": "OSG All-Hands Meeting 2018 \n Registration\n\n\nCosts\n\n\nThe OSG All-Hands Meeting 2018 has the following costs:\n\n\n\n\nMonday, Tuesday, Wednesday Full-day registration: $60 each day\n\n\nTuesday group dinner: $60 per person\n\n\nThursday half-day registration: $35\n\n\nThursday Full-day OSG Council registration: $60\n\n\n\n\nNote that daily registration includes coffee and tea throughout each day, lunch, and light snacks in mid-morning and\nmid-afternoon.  Monday registration includes an evening reception with hors d\noeuvres and drinks.\n\n\nRegistration\n\n\nTo register, visit \nhttps://www.regonline.com/OSGallhandsmtg2018\n.  The\nlink will take you to RegOnline, which is the University of Utah\ns online event registration partner.", 
+            "location": "/2018/registration/",
+            "text": "OSG All-Hands Meeting 2018 \u2013 Registration\n\u00b6\n\n\nCosts\n\u00b6\n\n\nThe OSG All-Hands Meeting 2018 has the following costs:\n\n\n\n\nMonday, Tuesday, Wednesday Full-day registration: $60 each day\n\n\nTuesday group dinner: $60 per person\n\n\nThursday half-day registration: $35\n\n\nThursday Full-day OSG Council registration: $60\n\n\n\n\nNote that daily registration includes coffee and tea throughout each day, lunch, and light snacks in mid-morning and\nmid-afternoon.  Monday registration includes an evening reception with hors d\u2019oeuvres and drinks.\n\n\nRegistration\n\u00b6\n\n\nTo register, visit \nhttps://www.regonline.com/OSGallhandsmtg2018\n.  The\nlink will take you to RegOnline, which is the University of Utah\u2019s online event registration partner.",
             "title": "Cost & Registration"
-        }, 
+        },
         {
-            "location": "/2018/registration/#osg-all-hands-meeting-2018-registration", 
-            "text": "", 
+            "location": "/2018/registration/#osg-all-hands-meeting-2018-registration",
+            "text": "",
             "title": "OSG All-Hands Meeting 2018 &ndash; Registration"
-        }, 
+        },
         {
-            "location": "/2018/registration/#costs", 
-            "text": "The OSG All-Hands Meeting 2018 has the following costs:   Monday, Tuesday, Wednesday Full-day registration: $60 each day  Tuesday group dinner: $60 per person  Thursday half-day registration: $35  Thursday Full-day OSG Council registration: $60   Note that daily registration includes coffee and tea throughout each day, lunch, and light snacks in mid-morning and\nmid-afternoon.  Monday registration includes an evening reception with hors d oeuvres and drinks.", 
+            "location": "/2018/registration/#costs",
+            "text": "The OSG All-Hands Meeting 2018 has the following costs:   Monday, Tuesday, Wednesday Full-day registration: $60 each day  Tuesday group dinner: $60 per person  Thursday half-day registration: $35  Thursday Full-day OSG Council registration: $60   Note that daily registration includes coffee and tea throughout each day, lunch, and light snacks in mid-morning and\nmid-afternoon.  Monday registration includes an evening reception with hors d\u2019oeuvres and drinks.",
             "title": "Costs"
-        }, 
+        },
         {
-            "location": "/2018/registration/#registration", 
-            "text": "To register, visit  https://www.regonline.com/OSGallhandsmtg2018 .  The\nlink will take you to RegOnline, which is the University of Utah s online event registration partner.", 
+            "location": "/2018/registration/#registration",
+            "text": "To register, visit  https://www.regonline.com/OSGallhandsmtg2018 .  The\nlink will take you to RegOnline, which is the University of Utah\u2019s online event registration partner.",
             "title": "Registration"
-        }, 
+        },
         {
-            "location": "/2018/hotels/", 
-            "text": "OSG All-Hands Meeting 2018 \n Hotels\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting 2018 will be held March 19\n22 at\nthe \nUniversity of Utah\n.  The meeting itself will be in the \nOfficers\nClub\n (150 S Fort Douglas Blvd).\n\n\nConference Hotel\n\n\nWe have reserved a block of rooms at the \nUniversity Guest\nHouse\n (110 S Fort Douglas Blvd), which is adjacent to the\nOfficers Club and therefore convenient for attendees.\n\n\nDetails:\n\n\n\n\nBlock rates are available through 3 March 2018 at 5 p.m. (MST)\n\n\nCall (888)\n416-4075 and mention \nOSG All-Hands Meeting\n to get the special rate\n\n\nSpecial rate: $110/night + taxes (12.6%) for single or double occupancy\n\n\nThis rate will be honored 3 days before and after the event dates\n\n\nRooms have two queen beds or one king bed\n\n\nCheck in time is 3 p.m., check out time is noon\n\n\n\n\nOther Nearby Hotel\n\n\nIf you do not wish to or cannot use the block, another nearby hotel\n a 0.9 mile walk and very near the\nUniversity shuttle routes\n is the\n\nSalt Lake City Marrott University Park\n\n(480 Wakara Way).", 
+            "location": "/2018/hotels/",
+            "text": "OSG All-Hands Meeting 2018 \u2013 Hotels\n\u00b6\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting 2018 will be held March 19\u201322 at\nthe \nUniversity of Utah\n.  The meeting itself will be in the \nOfficers\nClub\n (150 S Fort Douglas Blvd).\n\n\nConference Hotel\n\u00b6\n\n\nWe have reserved a block of rooms at the \nUniversity Guest\nHouse\n (110 S Fort Douglas Blvd), which is adjacent to the\nOfficers Club and therefore convenient for attendees.\n\n\nDetails:\n\n\n\n\nBlock rates are available through 3 March 2018 at 5 p.m. (MST)\n\n\nCall (888)\u00a0416-4075 and mention \u201cOSG All-Hands Meeting\u201d to get the special rate\n\n\nSpecial rate: $110/night + taxes (12.6%) for single or double occupancy\n\n\nThis rate will be honored 3 days before and after the event dates\n\n\nRooms have two queen beds or one king bed\n\n\nCheck in time is 3 p.m., check out time is noon\n\n\n\n\nOther Nearby Hotel\n\u00b6\n\n\nIf you do not wish to or cannot use the block, another nearby hotel\u00a0\u2014 a 0.9 mile walk and very near the\nUniversity shuttle routes\u00a0\u2014 is the\n\nSalt Lake City Marrott University Park\n\n(480 Wakara Way).",
             "title": "Hotels"
-        }, 
+        },
         {
-            "location": "/2018/hotels/#osg-all-hands-meeting-2018-hotels", 
-            "text": "The  Open Science Grid  (OSG) All-Hands Meeting 2018 will be held March 19 22 at\nthe  University of Utah .  The meeting itself will be in the  Officers\nClub  (150 S Fort Douglas Blvd).", 
+            "location": "/2018/hotels/#osg-all-hands-meeting-2018-hotels",
+            "text": "The  Open Science Grid  (OSG) All-Hands Meeting 2018 will be held March 19\u201322 at\nthe  University of Utah .  The meeting itself will be in the  Officers\nClub  (150 S Fort Douglas Blvd).",
             "title": "OSG All-Hands Meeting 2018 &ndash; Hotels"
-        }, 
+        },
         {
-            "location": "/2018/hotels/#conference-hotel", 
-            "text": "We have reserved a block of rooms at the  University Guest\nHouse  (110 S Fort Douglas Blvd), which is adjacent to the\nOfficers Club and therefore convenient for attendees.  Details:   Block rates are available through 3 March 2018 at 5 p.m. (MST)  Call (888) 416-4075 and mention  OSG All-Hands Meeting  to get the special rate  Special rate: $110/night + taxes (12.6%) for single or double occupancy  This rate will be honored 3 days before and after the event dates  Rooms have two queen beds or one king bed  Check in time is 3 p.m., check out time is noon", 
+            "location": "/2018/hotels/#conference-hotel",
+            "text": "We have reserved a block of rooms at the  University Guest\nHouse  (110 S Fort Douglas Blvd), which is adjacent to the\nOfficers Club and therefore convenient for attendees.  Details:   Block rates are available through 3 March 2018 at 5 p.m. (MST)  Call (888)\u00a0416-4075 and mention \u201cOSG All-Hands Meeting\u201d to get the special rate  Special rate: $110/night + taxes (12.6%) for single or double occupancy  This rate will be honored 3 days before and after the event dates  Rooms have two queen beds or one king bed  Check in time is 3 p.m., check out time is noon",
             "title": "Conference Hotel"
-        }, 
+        },
         {
-            "location": "/2018/hotels/#other-nearby-hotel", 
-            "text": "If you do not wish to or cannot use the block, another nearby hotel  a 0.9 mile walk and very near the\nUniversity shuttle routes  is the Salt Lake City Marrott University Park \n(480 Wakara Way).", 
+            "location": "/2018/hotels/#other-nearby-hotel",
+            "text": "If you do not wish to or cannot use the block, another nearby hotel\u00a0\u2014 a 0.9 mile walk and very near the\nUniversity shuttle routes\u00a0\u2014 is the Salt Lake City Marrott University Park \n(480 Wakara Way).",
             "title": "Other Nearby Hotel"
-        }, 
+        },
         {
-            "location": "/2018/local/", 
-            "text": "OSG All-Hands Meeting 2018 \n Local Details\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting 2018 will be held March 19\n22 at\nthe \nUniversity of Utah\n.\n\n\nFor information about hotels, please see the \nhotels page\n.\n\n\nConference Venue\n\n\nThe meeting will be in the \nOfficers Club\n (150 S Fort Douglas Blvd)\non the University of Utah campus.  Their site contains photos and maps of the location.  Room assignments will be shown\nin \nthe Indico timetable\n and there will be signs in the facility with\neach day\ns schedule.\n\n\nTransportation\n\n\nSalt Lake City is easy to navigate, and most roads are laid out on a simple north-south/east-west grid system.  There is\n\na local shorthand\n for describing locations\nrelative to the city center (Temple Square), which is very logical but may take a bit of getting used to.  The\nUniversity is east of the center, nestled up against the mountains, and the airport is to the west.  All the usual\nmapping tools will help get you around town.\n\n\nHere are some transportation resources for the University and Salt Lake City:\n\n\n\n\nTransportation help from the University Guest House\n\n\nTransportation help from the University International office\n\n\nSalt Lake City International Airport\n\n\nUtah Transit Authority (UTA)\n bus and TRAX light rail in Salt Lake City area\n\n\nUniversity of Utah shuttle bus\n and \nLive Shuttle Tracking\n\n\nUber\n and \nLyft\n are both active at the airport and around the city\n\n\n\n\n(The University of Utah and Open Science Grid do not endorse or recommend any particular third-party transportation\nservices.  The links above refer to only some of the available transportation options.)\n\n\nParking\n\n\nThe conference hotel has its own parking lot and is a very short walk to the Officers Club, so there is no need for\nseparate hotel and conference parking if you stay there.\n\n\nFor attendees who drive to the meeting from elsewhere, we will be assigned a parking lot and you can park there for free\nduring the days of the meeting.  Details on which parking lot to use will be posted closer to the event.", 
+            "location": "/2018/local/",
+            "text": "OSG All-Hands Meeting 2018 \u2013 Local Details\n\u00b6\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting 2018 will be held March 19\u201322 at\nthe \nUniversity of Utah\n.\n\n\nFor information about hotels, please see the \nhotels page\n.\n\n\nConference Venue\n\u00b6\n\n\nThe meeting will be in the \nOfficers Club\n (150 S Fort Douglas Blvd)\non the University of Utah campus.  Their site contains photos and maps of the location.  Room assignments will be shown\nin \nthe Indico timetable\n and there will be signs in the facility with\neach day\u2019s schedule.\n\n\nTransportation\n\u00b6\n\n\nSalt Lake City is easy to navigate, and most roads are laid out on a simple north-south/east-west grid system.  There is\n\na local shorthand\n for describing locations\nrelative to the city center (Temple Square), which is very logical but may take a bit of getting used to.  The\nUniversity is east of the center, nestled up against the mountains, and the airport is to the west.  All the usual\nmapping tools will help get you around town.\n\n\nHere are some transportation resources for the University and Salt Lake City:\n\n\n\n\nTransportation help from the University Guest House\n\n\nTransportation help from the University International office\n\n\nSalt Lake City International Airport\n\n\nUtah Transit Authority (UTA)\n\u00a0\u2013 bus and TRAX light rail in Salt Lake City area\n\n\nUniversity of Utah shuttle bus\n and \nLive Shuttle Tracking\n\n\nUber\n and \nLyft\n are both active at the airport and around the city\n\n\n\n\n(The University of Utah and Open Science Grid do not endorse or recommend any particular third-party transportation\nservices.  The links above refer to only some of the available transportation options.)\n\n\nParking\n\u00b6\n\n\nThe conference hotel has its own parking lot and is a very short walk to the Officers Club, so there is no need for\nseparate hotel and conference parking if you stay there.\n\n\nFor attendees who drive to the meeting from elsewhere, we will be assigned a parking lot and you can park there for free\nduring the days of the meeting.  Details on which parking lot to use will be posted closer to the event.",
             "title": "Local Details"
-        }, 
+        },
         {
-            "location": "/2018/local/#osg-all-hands-meeting-2018-local-details", 
-            "text": "The  Open Science Grid  (OSG) All-Hands Meeting 2018 will be held March 19 22 at\nthe  University of Utah .  For information about hotels, please see the  hotels page .", 
+            "location": "/2018/local/#osg-all-hands-meeting-2018-local-details",
+            "text": "The  Open Science Grid  (OSG) All-Hands Meeting 2018 will be held March 19\u201322 at\nthe  University of Utah .  For information about hotels, please see the  hotels page .",
             "title": "OSG All-Hands Meeting 2018 &ndash; Local Details"
-        }, 
+        },
         {
-            "location": "/2018/local/#conference-venue", 
-            "text": "The meeting will be in the  Officers Club  (150 S Fort Douglas Blvd)\non the University of Utah campus.  Their site contains photos and maps of the location.  Room assignments will be shown\nin  the Indico timetable  and there will be signs in the facility with\neach day s schedule.", 
+            "location": "/2018/local/#conference-venue",
+            "text": "The meeting will be in the  Officers Club  (150 S Fort Douglas Blvd)\non the University of Utah campus.  Their site contains photos and maps of the location.  Room assignments will be shown\nin  the Indico timetable  and there will be signs in the facility with\neach day\u2019s schedule.",
             "title": "Conference Venue"
-        }, 
+        },
         {
-            "location": "/2018/local/#transportation", 
-            "text": "Salt Lake City is easy to navigate, and most roads are laid out on a simple north-south/east-west grid system.  There is a local shorthand  for describing locations\nrelative to the city center (Temple Square), which is very logical but may take a bit of getting used to.  The\nUniversity is east of the center, nestled up against the mountains, and the airport is to the west.  All the usual\nmapping tools will help get you around town.  Here are some transportation resources for the University and Salt Lake City:   Transportation help from the University Guest House  Transportation help from the University International office  Salt Lake City International Airport  Utah Transit Authority (UTA)  bus and TRAX light rail in Salt Lake City area  University of Utah shuttle bus  and  Live Shuttle Tracking  Uber  and  Lyft  are both active at the airport and around the city   (The University of Utah and Open Science Grid do not endorse or recommend any particular third-party transportation\nservices.  The links above refer to only some of the available transportation options.)", 
+            "location": "/2018/local/#transportation",
+            "text": "Salt Lake City is easy to navigate, and most roads are laid out on a simple north-south/east-west grid system.  There is a local shorthand  for describing locations\nrelative to the city center (Temple Square), which is very logical but may take a bit of getting used to.  The\nUniversity is east of the center, nestled up against the mountains, and the airport is to the west.  All the usual\nmapping tools will help get you around town.  Here are some transportation resources for the University and Salt Lake City:   Transportation help from the University Guest House  Transportation help from the University International office  Salt Lake City International Airport  Utah Transit Authority (UTA) \u00a0\u2013 bus and TRAX light rail in Salt Lake City area  University of Utah shuttle bus  and  Live Shuttle Tracking  Uber  and  Lyft  are both active at the airport and around the city   (The University of Utah and Open Science Grid do not endorse or recommend any particular third-party transportation\nservices.  The links above refer to only some of the available transportation options.)",
             "title": "Transportation"
-        }, 
+        },
         {
-            "location": "/2018/local/#parking", 
-            "text": "The conference hotel has its own parking lot and is a very short walk to the Officers Club, so there is no need for\nseparate hotel and conference parking if you stay there.  For attendees who drive to the meeting from elsewhere, we will be assigned a parking lot and you can park there for free\nduring the days of the meeting.  Details on which parking lot to use will be posted closer to the event.", 
+            "location": "/2018/local/#parking",
+            "text": "The conference hotel has its own parking lot and is a very short walk to the Officers Club, so there is no need for\nseparate hotel and conference parking if you stay there.  For attendees who drive to the meeting from elsewhere, we will be assigned a parking lot and you can park there for free\nduring the days of the meeting.  Details on which parking lot to use will be posted closer to the event.",
             "title": "Parking"
-        }, 
+        },
         {
-            "location": "/2018/on-your-own/", 
-            "text": "OSG All-Hands Meeting 2018 \n On Your Own\n\n\nIf you have some extra time, the University of Utah, Salt Lake City, and Utah are great places to visit.\n\n\nTravel Resources\n\n\nThere are many resources for travel in Utah, here are a few to get started:\n\n\n\n\nUtah Office of Tourism\n\n\nUtah Travel Industry website\n\n\nVisit Salt Lake\n\n\nUniversity of Utah Visitors guide\n\n\nUniversity Guest House Area Attractions\n\n\nUniversity Guest House list of nearby restaurants and bars\n\n\n\n\nGroup Ski Trip on Friday, March 23\n\n\nWant to experience the \nGreatest Snow on Earth\n?  There are\n\nfour ski resorts\n that are close to the OSG All-Hands Meeting.\n\nTim Theisen\n, OSG Release Manager, has offered to organize a ski/snowboard trip to a nearby ski\nresort on Friday, March 23.  Let him know if you are interested, either by email or by using the checkbox on the\nregistration form.\n\n\nTim is an avid skier and a member of the National Ski Patrol.  He has skied at all four nearby resorts\n(\nAlta\n, \nSnowbird\n, \nSolitude\n, and\n\nBrighton\n) as well other resorts in the area\n(\nPark City\n and \nCanyons\n).", 
+            "location": "/2018/on-your-own/",
+            "text": "OSG All-Hands Meeting 2018 \u2013 On Your Own\n\u00b6\n\n\nIf you have some extra time, the University of Utah, Salt Lake City, and Utah are great places to visit.\n\n\nTravel Resources\n\u00b6\n\n\nThere are many resources for travel in Utah, here are a few to get started:\n\n\n\n\nUtah Office of Tourism\n\n\nUtah Travel Industry website\n\n\nVisit Salt Lake\n\n\nUniversity of Utah Visitors guide\n\n\nUniversity Guest House Area Attractions\n\n\nUniversity Guest House list of nearby restaurants and bars\n\n\n\n\nGroup Ski Trip on Friday, March 23\n\u00b6\n\n\nWant to experience the \u201cGreatest Snow on Earth\u201d?  There are\n\nfour ski resorts\n that are close to the OSG All-Hands Meeting.\n\nTim Theisen\n, OSG Release Manager, has offered to organize a ski/snowboard trip to a nearby ski\nresort on Friday, March 23.  Let him know if you are interested, either by email or by using the checkbox on the\nregistration form.\n\n\nTim is an avid skier and a member of the National Ski Patrol.  He has skied at all four nearby resorts\n(\nAlta\n, \nSnowbird\n, \nSolitude\n, and\n\nBrighton\n) as well other resorts in the area\n(\nPark City\n and \nCanyons\n).",
             "title": "On Your Own"
-        }, 
+        },
         {
-            "location": "/2018/on-your-own/#osg-all-hands-meeting-2018-on-your-own", 
-            "text": "If you have some extra time, the University of Utah, Salt Lake City, and Utah are great places to visit.", 
+            "location": "/2018/on-your-own/#osg-all-hands-meeting-2018-on-your-own",
+            "text": "If you have some extra time, the University of Utah, Salt Lake City, and Utah are great places to visit.",
             "title": "OSG All-Hands Meeting 2018 &ndash; On Your Own"
-        }, 
+        },
         {
-            "location": "/2018/on-your-own/#travel-resources", 
-            "text": "There are many resources for travel in Utah, here are a few to get started:   Utah Office of Tourism  Utah Travel Industry website  Visit Salt Lake  University of Utah Visitors guide  University Guest House Area Attractions  University Guest House list of nearby restaurants and bars", 
+            "location": "/2018/on-your-own/#travel-resources",
+            "text": "There are many resources for travel in Utah, here are a few to get started:   Utah Office of Tourism  Utah Travel Industry website  Visit Salt Lake  University of Utah Visitors guide  University Guest House Area Attractions  University Guest House list of nearby restaurants and bars",
             "title": "Travel Resources"
-        }, 
+        },
         {
-            "location": "/2018/on-your-own/#group-ski-trip-on-friday-march-23", 
-            "text": "Want to experience the  Greatest Snow on Earth ?  There are four ski resorts  that are close to the OSG All-Hands Meeting. Tim Theisen , OSG Release Manager, has offered to organize a ski/snowboard trip to a nearby ski\nresort on Friday, March 23.  Let him know if you are interested, either by email or by using the checkbox on the\nregistration form.  Tim is an avid skier and a member of the National Ski Patrol.  He has skied at all four nearby resorts\n( Alta ,  Snowbird ,  Solitude , and Brighton ) as well other resorts in the area\n( Park City  and  Canyons ).", 
+            "location": "/2018/on-your-own/#group-ski-trip-on-friday-march-23",
+            "text": "Want to experience the \u201cGreatest Snow on Earth\u201d?  There are four ski resorts  that are close to the OSG All-Hands Meeting. Tim Theisen , OSG Release Manager, has offered to organize a ski/snowboard trip to a nearby ski\nresort on Friday, March 23.  Let him know if you are interested, either by email or by using the checkbox on the\nregistration form.  Tim is an avid skier and a member of the National Ski Patrol.  He has skied at all four nearby resorts\n( Alta ,  Snowbird ,  Solitude , and Brighton ) as well other resorts in the area\n( Park City  and  Canyons ).",
             "title": "Group Ski Trip on Friday, March 23"
         }
     ]
