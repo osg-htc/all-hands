@@ -6,13 +6,14 @@ an OSG resource provider and so the location varies each year.
 
 ## Upcoming Meeting
 
-The [OSG All-Hands Meeting 2019](/2019/index.md) will be held March 18&ndash;21 at [Thomas Jefferson National
-Accelerator Facility](https://www.jlab.org); the meeting will be held jointly with the Worldwide LHC Computing Grid
-(WLCG) and HEP Software Foundation (HSF) Workshop, providing extra opportunities to interact with members of the
-high-energy physics (HEP) computing community.
+The [OSG All-Hands Meeting 2020](/2020/index.md) will be held March 16&ndash;19
+at the [University of Oklahoma](https://www.ou.edu) in Norman, OK.
 
 ## Prior Events
 
+* [OSG All-Hands Meeting 2019](/2019/index.md),
+  [Thomas Jefferson National Accelerator Facility](https://www.jlab.org),
+  ([agenda](https://indico.cern.ch/event/759388/))
 * [OSG All-Hands Meeting 2018](/2018/index.md),
   [University of Utah](https://www.utah.edu/)
   ([agenda](https://indico.fnal.gov/event/15344/))
