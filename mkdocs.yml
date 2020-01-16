@@ -9,6 +9,7 @@ pages:
   - Home: index.md
   - 2020:
     - General Info: 2020/index.md
+    - Schedule: 2020/schedule.md
   - 2019:
     - General Info: 2019/index.md
   - 2018:
