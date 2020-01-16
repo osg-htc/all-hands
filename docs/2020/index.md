@@ -30,4 +30,4 @@ For questions or comments:
 
 * [Tim Cartwright](mailto:cat@cs.wisc.edu), OSG Deputy Executive Director
 * [Frank Würthwein](mailto:fkw@ucsd.edu), OSG Executive Director and Meeting Chair
-* [Horst Severini](mailto:hs@nhn.ou.edu), Local Chair
+* [Horst Severini](mailto:severini@ou.edu), Local Chair
