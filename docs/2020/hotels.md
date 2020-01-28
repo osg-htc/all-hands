@@ -19,10 +19,10 @@ available.
 * Conference rate: $30/night + taxes
 * **Shared spaces:** Each suite has 4 sleeping rooms, 2 bathrooms, and common areas
 
-### [La Quinta Inn &amp; Suites by Wyndham](https://www.wyndhamhotels.com/laquinta/norman-oklahoma/la-quinta-oklahoma-city-norman/rooms-rates?&checkInDate=03/16/2020&checkOutDate=03/20/2020&groupCode=CGOSGC)
+### [La Quinta Inn &amp; Suites by Wyndham](https://www.wyndhamhotels.com/laquinta/norman-oklahoma/la-quinta-oklahoma-city-norman/rooms-rates?&checkInDate=03/16/2020&checkOutDate=03/19/2020&groupCode=CGOSGC)
 
 * Located about 3 miles from the conference venue
-* Go [online](https://www.wyndhamhotels.com/laquinta/norman-oklahoma/la-quinta-oklahoma-city-norman/rooms-rates?&checkInDate=03/16/2020&checkOutDate=03/20/2020&groupCode=CGOSGC), or call (888)&nbsp;312-2399 and use &ldquo;OSG All-Hands Meeting&rdquo; to get the special rate
+* Go [online](https://www.wyndhamhotels.com/laquinta/norman-oklahoma/la-quinta-oklahoma-city-norman/rooms-rates?&checkInDate=03/16/2020&checkOutDate=03/19/2020&groupCode=CGOSGC), or call (888)&nbsp;312-2399 and use &ldquo;OSG All-Hands Meeting&rdquo; to get the special rate
 * Special rate: $72/night + taxes
 * Rooms have two queen beds or one king bed
 * Check in time is 3 p.m., check out time is noon

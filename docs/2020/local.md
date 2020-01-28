@@ -48,6 +48,7 @@ only some of the available transportation options.)
 
 ## Parking
 
-There is free parking at the conference venue.  See the
+There is free parking at the conference venue.  Parking permits will be given at
+registration that must be displayed in the vehicle.  See the
 [Thurman J. White Forum Building](https://pacs.ou.edu/about/conference-services/location/)
 website for more information and a map.
