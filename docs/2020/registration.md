@@ -11,7 +11,10 @@ Registration for the OSG All-Hands Meeting 2020 costs **$250**, which includes:
 
 ## Registration
 
-The registration system will be linked from here very soon.
+To register, visit
+[this link to the registration.occe.ou.edu site](https://registration.occe.ou.edu/reg/reg_p1_form.aspx?oc=10&ct=PART&eventid=9364).
+This is the University of Oklahoma Extended Campus (CCE) online event
+registration system.
 
 When registering, please indicate which days you plan to attend so that we have
 accurate counts for catering and so forth.
