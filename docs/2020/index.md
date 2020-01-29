@@ -1,6 +1,7 @@
 # OSG All-Hands Meeting 2020
 
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and the University of Oklahoma invite you to attend:
+The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and the
+[University of Oklahoma](https://www.ou.edu/) invite you to attend:
 
 <div style="border: 1px solid #3F51B5; color: #20295A; background-color: #E7E9F6; padding: 1ex; font-size: 115%; font-weight: bold;">
   16&ndash;19 March 2020
@@ -8,10 +9,10 @@ The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and the Universit
   The University of Oklahoma, Norman, OK
 </div>
 
-Details on registration, costs, facilities, and so forth will be posted soon (January).
-The [full agenda](https://indico.fnal.gov/event/22127/) will be developed throughout January and February.
+<span style="font-weight: bold; color: #FF6600;">Registration is now open!</span>
+Details are available from the menu to the left.
 
-More information coming soon!
+The [detailed agenda](https://indico.fnal.gov/event/22127/) will be posted in February.
 
 ## Topics
 
