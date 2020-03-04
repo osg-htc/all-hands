@@ -9,10 +9,10 @@ pages:
   - Home: index.md
   - 2020:
     - General Info: 2020/index.md
+    - Reschedule FAQs: 2020/reschedule.md
     - Schedule: 2020/schedule.md
     - Cost & Registration: 2020/registration.md
     - Hotels: 2020/hotels.md
-    - Local Details: 2020/local.md
   - 2019:
     - General Info: 2019/index.md
   - 2018:
