@@ -3,7 +3,7 @@
 <div style="border: 2px solid #FF6600; color: black; background-color: #FFECDF; padding: 1ex; font-size: 115%; font-weight: bold;">
   The OSG All-Hands Meeting for 2020 has been postponed from March to late
   summer or early fall.  We plan to announce new dates on March 13.  For more
-  information, see the Reschedule FAQs page.
+  information, see the <a href="https://opensciencegrid.org/all-hands/2020/reschedule/">Reschedule FAQs</a> page.
 </div>
 
 The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and the
