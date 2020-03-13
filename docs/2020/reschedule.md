@@ -2,7 +2,8 @@
 
 On 4 March 2020, the [Open Science Grid](https://www.opensciencegrid.org) (OSG)
 All-Hands Meeting 2020 was officially postponed.  The new dates for the meeting
-will be announced on March 13.
+are 31 August through the morning of 3 September 2020.  The meeting still will
+be held at the University of Oklahoma.
 
 Below are some possible questions and our best answers at this time.
 
@@ -11,27 +12,18 @@ Below are some possible questions and our best answers at this time.
 *   **Why was the All-Hands Meeting postponed?**
 
     Due to the coronavirus situation in the U.S. and around the world, and out
-    of an abundance of caution, we decided to postpone the meeting.  Further,
-    some of our colleagues started learning of suggested or actual travel
-    restrictions from their home institutions.  Considering all the available
-    evidence, including how rapidly the situation seemed to be changing, it
-    seemed best to postpone.
+    of an abundance of caution, we decided to postpone the meeting.
 
-*   **Will the All-Hands Meeting still happen in 2020?**
+*   **How will the rescheduled meeting differ?**
 
-    We certainly hope so!  At this time, we are evaluating options for new dates
-    in late summer or early fall.  The plan is to announce a new schedule on
-    March 13.
+    Generally, the plan is to have the same meeting as originally planned for
+    March, but with updates to reflect the new things that happen between now
+    and then.  More details, plus a new link to register, will be available in
+    the coming months.  We will continue to update this website and will email
+    an announcement when registration is open again.
 
-*   **Where will the rescheduled meeting take place?**
 
-    The original plan was to meet at the University of Oklahoma and we have no
-    plans to change the venue.  Our hosts there have been incredibly helpful
-    throughout the original planning process and especially during the rapid
-    change of events in early March, and we look forward to having the meeting
-    there.
-
-## Questions for Registrants
+## Questions for People Who Registered for the March Meeting
 
 *   **I paid the registration fee already, so what happens next?**
 

@@ -1,10 +1,11 @@
 # OSG All-Hands Meeting 2020 &ndash; Schedule
 
-<span style="color: #FF6600;">The
-[Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting
-2020 has been postponed from March to sometime in the late summer or early
-fall.</span> We plan to announce new dates for the meeting on March 13 and a new
-high-level schedule shortly after that.
+<span style="font-weight: bold; color: #FF6600;">Note:</span> The 2020 meeting
+has been rescheduled from its original dates in March to new dates below.
+
+The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting
+2020 will be held Monday, August 31 through the morning of Thursday,
+September 3.
 
 ## Special Focus Areas
 
@@ -14,4 +15,4 @@ high-level schedule shortly after that.
 
 ## High-Level Schedule
 
-Coming soon.
+Coming in late spring or early summer.

@@ -1,9 +1,12 @@
 # OSG All-Hands Meeting 2020 &ndash; Registration
 
-<span style="color: #FF6600;">The
-[Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting
-2020 has been postponed from March to sometime in the late summer or early
-fall.</span> We plan to announce new dates for the meeting on March 13.
+<span style="font-weight: bold; color: #FF6600;">Note:</span> The 2020 meeting
+has been rescheduled from its original dates in March to August 31 through
+September 3.
 
-Once the new dates are set, we begin planning for the meeting again.  We expect
-that the registration fee will remain at $250 or maybe less.
+## Costs
+
+The exact registration fee for the rescheduled event has not been settled yet,
+but it is expected to remain at or near the original $250 amount.
+
+Cost and registration information will be posted on this page once ready.
