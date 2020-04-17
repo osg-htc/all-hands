@@ -1,11 +1,5 @@
 # OSG All-Hands Meeting 2020
 
-<div style="border: 1px solid #FF6600; color: black; background-color: #FFECDF; padding: 1ex;">
-  Please note the new dates!  For more information, see the
-  <a href="https://opensciencegrid.org/all-hands/2020/reschedule/">Reschedule FAQs</a>
-  page.
-</div>
-
 The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and the
 [University of Oklahoma](https://www.ou.edu/) invite you to attend:
 

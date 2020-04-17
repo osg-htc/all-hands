@@ -1,8 +1,5 @@
 # OSG All-Hands Meeting 2020 &ndash; Hotels
 
-<span style="font-weight: bold; color: #FF6600;">Note:</span> The 2020 meeting
-has been rescheduled from its original dates in March to new dates below.
-
 The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting
 2020 will be held from Monday, August 31 through the morning of Thursday,
 September 3 at the [University of Oklahoma](https://www.ou.edu/).  The meeting
