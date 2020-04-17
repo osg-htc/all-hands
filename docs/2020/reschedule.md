@@ -11,8 +11,7 @@ Below are some possible questions and our best answers at this time.
 
 *   **Why was the All-Hands Meeting postponed?**
 
-    Due to the coronavirus situation in the U.S. and around the world, and out
-    of an abundance of caution, we decided to postpone the meeting.
+    Due to the COVID-19 pandemic.
 
 *   **How will the rescheduled meeting differ?**
 
