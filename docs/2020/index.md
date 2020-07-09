@@ -9,7 +9,7 @@ invites you to attend:
   Virtual All-Hands Meeting
 </div>
 
-The detailed agenda will be posted in later, check back here.
+The detailed agenda will be posted later, check back here.
 
 ## Topics
 
