@@ -1,9 +1,5 @@
 # OSG All-Hands Meeting 2020 &ndash; Registration
 
-## Costs
+Registration is free, but required.
+We plan to have a link to the registration system when ready.
 
-The exact registration fee for the [rescheduled](/2020/reschedule) event has not
-been settled yet, but it is expected to remain at or near the original $250
-amount.
-
-Cost and registration information will be posted on this page once ready.
