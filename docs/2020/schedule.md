@@ -16,4 +16,4 @@ Generally, the meetings will occupy just 4 to 5 hours per day, with breaks,
 so there will be time to attend and to do other things. We are aiming to
 have similar (but updated!) content as planned for March.
 
-Detailed schedule coming in July 2020.
+We plan to post an overview schedule in July.
