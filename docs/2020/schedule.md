@@ -31,22 +31,22 @@ U.S. Central Time.  When the detailed schedule is settled, exact times may vary.
 **Monday, August 31**
 
 *   Session 1: State of the OSG
-*   Session 2: Science enabled by OSG
+*   Session 2: Science Enabled by OSG
 
 **Tuesday, September 1**
 
-*   Session 1: David Swanson Memorial and David Swanson Award speaker
-*   Session 2: OSG on campuses
+*   Session 1: David Swanson Memorial and David Swanson Award Speaker
+*   Session 2: OSG on Campuses
 
 **Wednesday, September 2**
 
 *   Session 1: Artificial Intelligence, Machine Learning, GPUs, and the Cloud
-*   Session 2: OSG Technology updates
+*   Session 2: OSG Technology Updates
 
 **Thursday, September 3**
 
-*   Session 1: OSG and multi-institutional collaborations (starting 15 minutes early)
-*   Session 2: OSG Council (no discussion rooms)
+*   Session 1: OSG and Multi-Institutional Collaborations (starting 15 minutes early)
+*   Session 2: OSG Council (closed meeting, no discussion rooms)
 
 **Friday, September 4**
 
