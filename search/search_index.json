@@ -42,12 +42,12 @@
         },
         {
             "location": "/2020/schedule/",
-            "text": "OSG All-Hands Meeting 2020 \u2013 Schedule\n\u00b6\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting\n2020 will be held Monday, August 31 through Thursday,\nSeptember 3 (rescheduled from March).\n\n\nSpecial Focus Areas\n\u00b6\n\n\n\n\nSupporting researchers and their campuses\n\n\nScience with GPUs and in the commercial cloud\n\n\nArtificial Intelligence (AI) and Machine Learning (ML)\n\n\n\n\nHigh-Level Schedule\n\u00b6\n\n\nGenerally, the meetings will occupy just 4 to 5 hours per day, with breaks,\nso there will be time to attend and to do other things. We are aiming to\nhave similar (but updated!) content as planned for March.\n\n\nWe plan to post an overview schedule in July.",
+            "text": "OSG All-Hands Meeting 2020 \u2013 Schedule\n\u00b6\n\n\nThe \nOpen Science Grid\n (OSG) All-Hands Meeting\n2020 will be held Monday, August 31 through Friday,\nSeptember 4 (rescheduled from March).\n\n\nSpecial Focus Areas\n\u00b6\n\n\n\n\nSupporting researchers and their campuses\n\n\nScience with GPUs and in the commercial cloud\n\n\nArtificial Intelligence (AI) and Machine Learning (ML)\n\n\n\n\nHigh-Level Schedule\n\u00b6\n\n\nWhile the details may change, the high-level schedule below is expected to be\nstable.\n\n\nTypical Daily Schedule\n\u00b6\n\n\nThe typical daily schedule will be as follows, with all times shown in\nU.S. Central Time.  When the detailed schedule is settled, exact times may vary.\n\n\n\n\nSession 1 (90 min): 11:00 a.m. \u2013 12:30 p.m.\n\n\nBreak (60 min): 12:30\u20131:30 p.m.\n\n\nSession 2 (90 min): 1:30\u20133:00 p.m.\n\n\nShort break (10 min): 3:00\u20133:10 p.m.\n\n\nDiscussion rooms (50 min): 3:10\u20134:00 p.m.\n\n\n\n\nDay-by-Day Schedule\n\u00b6\n\n\nMonday, August 31\n\n\n\n\nSession 1: State of the OSG\n\n\nSession 2: Science Enabled by OSG\n\n\n\n\nTuesday, September 1\n\n\n\n\nSession 1: David Swanson Memorial and David Swanson Award Speaker\n\n\nSession 2: OSG on Campuses\n\n\n\n\nWednesday, September 2\n\n\n\n\nSession 1: Artificial Intelligence, Machine Learning, GPUs, and the Cloud\n\n\nSession 2: OSG Technology Updates\n\n\n\n\nThursday, September 3\n\n\n\n\nSession 1: OSG and Multi-Institutional Collaborations (starting 15 minutes early)\n\n\nSession 2: OSG Council (closed meeting, no discussion rooms)\n\n\n\n\nFriday, September 4\n\n\nThe U.S. ATLAS and U.S. CMS high-energy physics projects are planning\nOSG-related topics for this day.",
             "title": "Schedule"
         },
         {
             "location": "/2020/schedule/#osg-all-hands-meeting-2020-schedule",
-            "text": "The  Open Science Grid  (OSG) All-Hands Meeting\n2020 will be held Monday, August 31 through Thursday,\nSeptember 3 (rescheduled from March).",
+            "text": "The  Open Science Grid  (OSG) All-Hands Meeting\n2020 will be held Monday, August 31 through Friday,\nSeptember 4 (rescheduled from March).",
             "title": "OSG All-Hands Meeting 2020 &ndash; Schedule"
         },
         {
@@ -57,8 +57,18 @@
         },
         {
             "location": "/2020/schedule/#high-level-schedule",
-            "text": "Generally, the meetings will occupy just 4 to 5 hours per day, with breaks,\nso there will be time to attend and to do other things. We are aiming to\nhave similar (but updated!) content as planned for March.  We plan to post an overview schedule in July.",
+            "text": "While the details may change, the high-level schedule below is expected to be\nstable.",
             "title": "High-Level Schedule"
+        },
+        {
+            "location": "/2020/schedule/#typical-daily-schedule",
+            "text": "The typical daily schedule will be as follows, with all times shown in\nU.S. Central Time.  When the detailed schedule is settled, exact times may vary.   Session 1 (90 min): 11:00 a.m. \u2013 12:30 p.m.  Break (60 min): 12:30\u20131:30 p.m.  Session 2 (90 min): 1:30\u20133:00 p.m.  Short break (10 min): 3:00\u20133:10 p.m.  Discussion rooms (50 min): 3:10\u20134:00 p.m.",
+            "title": "Typical Daily Schedule"
+        },
+        {
+            "location": "/2020/schedule/#day-by-day-schedule",
+            "text": "Monday, August 31   Session 1: State of the OSG  Session 2: Science Enabled by OSG   Tuesday, September 1   Session 1: David Swanson Memorial and David Swanson Award Speaker  Session 2: OSG on Campuses   Wednesday, September 2   Session 1: Artificial Intelligence, Machine Learning, GPUs, and the Cloud  Session 2: OSG Technology Updates   Thursday, September 3   Session 1: OSG and Multi-Institutional Collaborations (starting 15 minutes early)  Session 2: OSG Council (closed meeting, no discussion rooms)   Friday, September 4  The U.S. ATLAS and U.S. CMS high-energy physics projects are planning\nOSG-related topics for this day.",
+            "title": "Day-by-Day Schedule"
         },
         {
             "location": "/2020/registration/",
