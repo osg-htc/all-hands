@@ -10,7 +10,12 @@ September 4 (rescheduled from March).
 * Science with GPUs and in the commercial cloud
 * Artificial Intelligence (AI) and Machine Learning (ML)
 
-## High-Level Schedule
+## Detailed Schedule Site
+
+The detailed schedule (in progress) is available in (the Indico scheduling
+system)[https://indico.fnal.gov/event/22127/timetable/].
+
+## Schedule Overview
 
 While the details may change, the high-level schedule below is expected to be
 stable.

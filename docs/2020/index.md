@@ -9,7 +9,9 @@ invites you to attend:
   Virtual All-Hands Meeting
 </div>
 
-The detailed agenda will be posted later, check back here.
+An overview of the schedule is available on [the Schedule page](/2020/schedule),
+and the detailed schedule (in progress) is available in (the Indico scheduling
+system)[https://indico.fnal.gov/event/22127/timetable/].
 
 ## Topics
 
