@@ -10,8 +10,8 @@ invites you to attend:
 </div>
 
 An overview of the schedule is available on [the Schedule page](/2020/schedule),
-and the detailed schedule (in progress) is available in (the Indico scheduling
-system)[https://indico.fnal.gov/event/22127/timetable/].
+and the detailed schedule (in progress) is available in
+[the Indico scheduling system](https://indico.fnal.gov/event/22127/timetable/).
 
 ## Topics
 
