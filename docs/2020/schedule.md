@@ -12,8 +12,8 @@ September 4 (rescheduled from March).
 
 ## Detailed Schedule Site
 
-The detailed schedule (in progress) is available in (the Indico scheduling
-system)[https://indico.fnal.gov/event/22127/timetable/].
+The detailed schedule (in progress) is available in
+[the Indico scheduling system](https://indico.fnal.gov/event/22127/timetable/).
 
 ## Schedule Overview
 
