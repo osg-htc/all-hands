@@ -9,6 +9,9 @@ invites you to attend:
   Virtual All-Hands Meeting
 </div>
 
+**Registration is now open!** Registration is free but required, so
+[please take a minute to register now](https://indico.fnal.gov/event/22127/registrations/).
+
 An overview of the schedule is available on [the Schedule page](/2020/schedule),
 and the detailed schedule (in progress) is available in
 [the Indico scheduling system](https://indico.fnal.gov/event/22127/timetable/).
@@ -24,7 +27,9 @@ and the detailed schedule (in progress) is available in
 
 ## Contacts
 
-For questions or comments:
+For questions or comments, please email
+[our events mailing list](mailto:events@opensciencegrid.org).
 
-* [Tim Cartwright](mailto:cat@cs.wisc.edu), OSG Deputy Executive Director
-* [Frank Würthwein](mailto:fkw@ucsd.edu), OSG Executive Director and Meeting Chair
+* Frank Würthwein, OSG Executive Director and Meeting Chair
+* Lauren Michael, OSG Research Facilitation Team Lead
+* Tim Cartwright, OSG Deputy Executive Director
