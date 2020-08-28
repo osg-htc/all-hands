@@ -1,4 +1,6 @@
-# OSG All-Hands Meeting 2020 &ndash; Technology
+# OSG All-Hands Meeting 2020 &ndash; Logistics
+
+## Zoom
 
 We will use [Zoom](https://zoom.us/) for the OSG All-Hands Meeting this year.
 If you have not used Zoom before&hellip; where have you been the past 6 months?
@@ -22,7 +24,9 @@ Be sure to click the raise-hand icon if you want to comment or ask a question af
 Also, the chat feature is enabled and you are welcome to put comments and questions there.
 We will have someone watching for questions in the Everyone chat.
 
-Finally, we want all participants to be able to enjoy the meeting equally,
+## Code of Conduct
+
+We want all participants to be able to enjoy the meeting equally,
 so we expect everyone to follow the
 [APS Code of Conduct](https://www.aps.org/meetings/policies/code-conduct.cfm).
 
@@ -34,8 +38,8 @@ Also, please [register](/2020/registration) for the meeting,
 even if you are attending just for your session.
 
 Of course, you are invited to attend the whole session (and more!),
-but at very least,
-please try to arrive and be ready 10-15 minutes prior to your scheduled start time.
+but at very least
+please try to arrive and be ready 10&ndash;15 minutes prior to your scheduled start time.
 
 In Zoom, we will make you a Co-Host,
 which means that you will have the ability to unmute yourself and share your screen.
