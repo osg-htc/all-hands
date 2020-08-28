@@ -20,6 +20,8 @@ and from sharing their screens.
 During question time after each presentation,
 the session moderator or other staff can unmute you so that you can ask a question.
 Be sure to click the raise-hand icon if you want to comment or ask a question after a talk.
+And during breaks and discussion times, participants will be able to unmute themselves;
+but as you probably know by now, it is best to stay muted except when speaking.
 
 Also, the chat feature is enabled and you are welcome to put comments and questions there.
 We will have someone watching for questions in the Everyone chat.
@@ -50,6 +52,7 @@ so we will not repeat those here.
 Do remember to turn off device notifications and sounds that might occur during your talk,
 and when it is your turn, try to share just the window that shows your presentation.
 
-If you have not presented via Zoom before, it might be best to test your setup in advance.
-Please see your confirmation email for times on Friday, August 28, plus a separate Zoom link,
-for testing your Zoom setup.
+Once you are presenting,
+it is difficult for the moderator to keep you informed of timing without interrupting your presentation.
+So, please plan to time your own talk, perhaps on a separate device, and stick to your time.
+Be sure to leave a few (3&ndash;5) minutes at the end of your time for questions and transition.
