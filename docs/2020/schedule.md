@@ -40,7 +40,7 @@ U.S. Central Time.  When the detailed schedule is settled, exact times may vary.
 
 **Tuesday, September 1**
 
-*   Session 1: David Swanson Memorial and David Swanson Award Speaker
+*   Session 1: David Swanson Memorial and David Swanson Award Speaker (starting 20 minutes early)
 *   Session 2: OSG on Campuses
 
 **Wednesday, September 2**
