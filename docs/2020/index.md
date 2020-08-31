@@ -16,6 +16,10 @@ An overview of the schedule is available on [the Schedule page](/2020/schedule),
 and the detailed schedule (in progress) is available in
 [the Indico scheduling system](https://indico.fnal.gov/event/22127/timetable/).
 
+For meeting technology and other logistics, see
+[the Meeting Logistics page](/2020/technology).
+Note that Zoom connection details are emailed only to those who registered.
+
 ## Topics
 
 * **Supporting researchers and their campuses**
