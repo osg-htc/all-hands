@@ -10,8 +10,8 @@ There are many resources for travel in Utah, here are a few to get started:
 * [Utah Travel Industry website](https://utah.com)
 * [Visit Salt Lake](https://www.visitsaltlake.com)
 * [University of Utah Visitors guide](https://www.utah.edu/visitors/)
-* [University Guest House Area Attractions](http://www.universityguesthouse.com/Area-Attractions)
-* [University Guest House list of nearby restaurants and bars](http://www.universityguesthouse.com/Dining)
+* [University Guest House Area Attractions](https://www.universityguesthouse.com/Area-Attractions)
+* [University Guest House list of nearby restaurants and bars](https://www.universityguesthouse.com/Dining)
 
 ## Group Ski Trip on Friday, March 23
 
@@ -23,5 +23,5 @@ registration form.
 
 Tim is an avid skier and a member of the National Ski Patrol.  He has skied at all four nearby resorts
 ([Alta](https://www.alta.com), [Snowbird](https://www.snowbird.com), [Solitude](https://solitudemountain.com), and
-[Brighton](http://www.brightonresort.com)) as well other resorts in the area
+[Brighton](https://brightonresort.com)) as well other resorts in the area
 ([Park City](https://www.parkcitymountain.com) and [Canyons](https://www.parkcitymountain.com)).

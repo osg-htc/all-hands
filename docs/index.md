@@ -18,13 +18,13 @@ at the [University of Oklahoma](https://www.ou.edu) in Norman, OK.
   [University of Utah](https://www.utah.edu/)
   ([agenda](https://indico.fnal.gov/event/15344/))
 * [OSG All-Hands Meeting 2017](https://www.eiseverywhere.com/ehome/221621),
-  [San Diego Supercomputer Center](http://www.sdsc.edu/)
+  [San Diego Supercomputer Center](https://www.sdsc.edu)
   ([agenda](https://indico.fnal.gov/event/12973/))
 * OSG All-Hands Meeting 2016,
-  [Clemson University](http://www.clemson.edu/)
+  [Clemson University](https://www.clemson.edu)
   ([agenda](https://indico.fnal.gov/event/10571/))
-* [OSG All-Hands Meeting 2015](http://sites.northwestern.edu/osg-ahm2015/),
-  [Northwestern University](http://www.northwestern.edu/)
+* OSG All-Hands Meeting 2015,
+  [Northwestern University](https://www.northwestern.edu)
   ([agenda](https://indico.fnal.gov/event/8580/))
 * [OSG All-Hands Meeting 2014](https://app.certain.com/profile/web/index.cfm?PKwebID=0x5948342f2c&varPage=home),
   [SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu/)
@@ -33,20 +33,20 @@ at the [University of Oklahoma](https://www.ou.edu) in Norman, OK.
   [Indiana University](https://www.iu.edu/)
   ([agenda](https://indico.fnal.gov/event/5610/))
 * OSG All-Hands Meeting 2012,
-  [University of Nebraska&ndash;Lincoln](http://hcc.unl.edu/)
+  [University of Nebraska&ndash;Lincoln](https://hcc.unl.edu)
   ([agenda](https://indico.fnal.gov/event/5109/))
 * [OSG All-Hands Meeting 2011](https://sites.google.com/a/hkl.hms.harvard.edu/osgahm-2011/),
   [Harvard Medical School](https://hms.harvard.edu/)
   ([agenda](https://indico.fnal.gov/event/3627/))
 * OSG All-Hands Meeting 2010,
-  [Fermi National Accelerator Laboratory](http://www.fnal.gov/)
+  [Fermi National Accelerator Laboratory](https://www.fnal.gov)
   ([agenda](https://indico.fnal.gov/event/2871/))
 * OSG All-Hands Meeting 2009,
   [California Institute of Technology, LIGO](https://www.ligo.caltech.edu/LA)
   ([agenda](https://indico.fnal.gov/event/2012/))
 * OSG All-Hands Meeting 2008,
-  [University of North Carolina](http://www.unc.edu/)
+  [University of North Carolina](https://www.unc.edu)
   ([agenda](https://indico.fnal.gov/event/1037/))
 * OSG All-Hands Meeting 2007,
-  [San Diego Supercomputer Center](http://www.sdsc.edu/)
+  [San Diego Supercomputer Center](https://www.sdsc.edu)
   ([agenda](https://indico.fnal.gov/event/468/))
