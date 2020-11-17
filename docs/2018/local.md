@@ -7,7 +7,7 @@ For information about hotels, please see the [hotels page](hotels.md).
 
 ## Conference Venue
 
-The meeting will be in the [Officers Club](http://www.universityguesthouse.com/Officers-Club) (150 S Fort Douglas Blvd)
+The meeting will be in the [Officers Club](https://www.universityguesthouse.com/Officers-Club) (150 S Fort Douglas Blvd)
 on the University of Utah campus.  Their site contains photos and maps of the location.  Room assignments will be shown
 in [the Indico timetable](https://indico.fnal.gov/event/15344/timetable/) and there will be signs in the facility with
 each day&rsquo;s schedule.
@@ -22,11 +22,11 @@ mapping tools will help get you around town.
 
 Here are some transportation resources for the University and Salt Lake City:
 
-* [Transportation help from the University Guest House](http://www.universityguesthouse.com/Location-Transportation)
-* [Transportation help from the University International office](http://isss.utah.edu/students/orientation-arrival/transportation.php)
+* [Transportation help from the University Guest House](https://www.universityguesthouse.com/Location-Transportation)
+* [Transportation help from the University International office](https://isss.utah.edu/students/life-at-the-u/transportation.php)
 * [Salt Lake City International Airport](https://www.slcairport.com)
-* [Utah Transit Authority (UTA)](http://www.rideuta.com/)&nbsp;&ndash; bus and TRAX light rail in Salt Lake City area
-* [University of Utah shuttle bus](https://commuterservices.utah.edu/mass-transit/shuttles/) and [Live Shuttle Tracking](http://www.uofubus.com/)
+* [Utah Transit Authority (UTA)](https://www.rideuta.com)&nbsp;&ndash; bus and TRAX light rail in Salt Lake City area
+* [University of Utah shuttle bus](https://commuterservices.utah.edu/mass-transit/shuttles/) and [Live Shuttle Tracking](https://www.uofubus.com)
 * [Uber](https://www.uber.com/airports/slc/) and [Lyft](https://www.lyft.com/airports/slc) are both active at the airport and around the city
 
 (The University of Utah and Open Science Grid do not endorse or recommend any particular third-party transportation

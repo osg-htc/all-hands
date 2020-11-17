@@ -2,12 +2,12 @@
 
 The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting 2018 will be held March 19&ndash;22 at
 the [University of Utah](https://www.utah.edu/).  The meeting itself will be in the [Officers
-Club](http://www.universityguesthouse.com/Officers-Club) (150 S Fort Douglas Blvd).
+Club](https://www.universityguesthouse.com/Officers-Club) (150 S Fort Douglas Blvd).
 
 ## Conference Hotel
 
 We have reserved a block of rooms at the [University Guest
-House](http://www.universityguesthouse.com/University-Guest-House) (110 S Fort Douglas Blvd), which is adjacent to the
+House](https://www.universityguesthouse.com/University-Guest-House) (110 S Fort Douglas Blvd), which is adjacent to the
 Officers Club and therefore convenient for attendees.
 
 Details:
@@ -23,5 +23,5 @@ Details:
 
 If you do not wish to or cannot use the block, another nearby hotel&nbsp;&mdash; a 0.9 mile walk and very near the
 University shuttle routes&nbsp;&mdash; is the
-[Salt Lake City Marrott University Park](http://www.marriott.com/hotels/travel/slcup-salt-lake-city-marriott-university-park/)
+[Salt Lake City Marrott University Park](https://www.marriott.com/hotels/travel/slcup-salt-lake-city-marriott-university-park/)
 (480 Wakara Way).
