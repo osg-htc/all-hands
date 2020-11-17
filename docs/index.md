@@ -6,15 +6,15 @@ an OSG resource provider and so the location varies each year.
 
 ## Upcoming Meeting
 
-The [OSG All-Hands Meeting 2020](/2020/index.md) will be held March 16&ndash;19
+The [OSG All-Hands Meeting 2020](2020/index.md) will be held March 16&ndash;19
 at the [University of Oklahoma](https://www.ou.edu) in Norman, OK.
 
 ## Prior Events
 
-* [OSG All-Hands Meeting 2019](/2019/index.md),
+* [OSG All-Hands Meeting 2019](2019/index.md),
   [Thomas Jefferson National Accelerator Facility](https://www.jlab.org),
   ([agenda](https://indico.cern.ch/event/759388/))
-* [OSG All-Hands Meeting 2018](/2018/index.md),
+* [OSG All-Hands Meeting 2018](2018/index.md),
   [University of Utah](https://www.utah.edu/)
   ([agenda](https://indico.fnal.gov/event/15344/))
 * [OSG All-Hands Meeting 2017](https://www.eiseverywhere.com/ehome/221621),

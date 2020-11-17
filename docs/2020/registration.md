@@ -6,5 +6,5 @@ minutes:
 
 [https://indico.fnal.gov/event/22127/registrations/](https://indico.fnal.gov/event/22127/registrations/)
 
-Check [the Meeting Logistics page](/2020/technology)
+Check [the Meeting Logistics page](technology.md)
 for more information on meeting technology and other logistics.

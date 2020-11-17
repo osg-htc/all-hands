@@ -5,7 +5,7 @@ theme:
   name: material
   favicon: img/favicon.ico
 
-pages:
+nav:
   - Home: index.md
   - 2020:
     - General Info: 2020/index.md

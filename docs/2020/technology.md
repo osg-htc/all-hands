@@ -10,7 +10,7 @@ because there are impostors out there.
 
 For security reasons,
 we will email links to the Zoom meetings directly to the email addresses
-provided during [registration](/2020/registration).
+provided during [registration](registration.md).
 Please do not post the links publicly!
 If someone you know needs the link, encourage them to register first;
 we will resend the links every morning during the meeting.
@@ -36,7 +36,7 @@ so we expect everyone to follow the
 
 First, read the information above!
 It applies to everyone.
-Also, please [register](/2020/registration) for the meeting,
+Also, please [register](registration.md) for the meeting,
 even if you are attending just for your session.
 
 Of course, you are invited to attend the whole session (and more!),

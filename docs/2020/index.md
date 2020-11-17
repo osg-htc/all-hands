@@ -12,12 +12,12 @@ invites you to attend:
 **Registration is now open!** Registration is free but required, so
 [please take a minute to register now](https://indico.fnal.gov/event/22127/registrations/).
 
-An overview of the schedule is available on [the Schedule page](/2020/schedule),
+An overview of the schedule is available on [the Schedule page](schedule.md),
 and the detailed schedule (in progress) is available in
 [the Indico scheduling system](https://indico.fnal.gov/event/22127/timetable/).
 
 For meeting technology and other logistics, see
-[the Meeting Logistics page](/2020/technology).
+[the Meeting Logistics page](technology.md).
 Note that Zoom connection details are emailed only to those who registered.
 
 ## Topics
