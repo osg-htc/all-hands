@@ -6,11 +6,8 @@ an OSG resource provider and so the location varies each year.
 
 ## Upcoming Meeting
 
-Stay tuned for information about the OSG All-Hands Meeting 2021!
-
 The [OSG All-Hands Meeting 2021](2021/index.md) will be held March 1&ndash;5
 online.
-
 
 ## Prior Events
 
