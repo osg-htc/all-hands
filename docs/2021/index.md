@@ -16,7 +16,8 @@ invites you to attend:
 * **Wednesday: OSG Agility and Technology Advancements**
 * **Thursday: Impact on Multi-Institutional Collaborations**
 * **Friday: Atlas and CMS sessions**
-* More details coming soon.
+
+More details coming soon.
 
 ## Contacts
 
