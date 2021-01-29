@@ -9,6 +9,13 @@ invites you to attend:
   Virtual All-Hands Meeting
 </div>
 
+## Topics of the Day
+
+* **Monday: State of OSG; David Swanson Award recipients; Impact on Research**
+* **Tuesday: Campus Services and Experiences; NSF Campus Cyberinfrastructure (CCstar)**
+* **Wednesday: OSG Agility and Technology Advancements**
+* **Thursday: Impact on Multi-Institutional Collaborations**
+* **Friday: Atlas and CMS sessions**
 More details coming soon.
 
 ## Contacts
@@ -19,3 +26,6 @@ For questions or comments, please email
 * Frank Würthwein, OSG Executive Director and Meeting Chair
 * Lauren Michael, OSG Research Facilitation Team Lead
 * Tim Cartwright, OSG Deputy Executive Director
+
+
+
