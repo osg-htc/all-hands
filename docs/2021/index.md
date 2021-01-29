@@ -12,7 +12,7 @@ invites you to attend:
 ## Topics of the Day
 
 * **Monday: State of OSG; David Swanson Award recipients; Impact on Research**
-* **Tuesday: Campus Services and Experiences; NSF Campus Cyberinfrastructure (CCstar)**
+* **Tuesday: Campus Services and Experiences; NSF Campus Cyberinfrastructure (CC Star)**
 * **Wednesday: OSG Agility and Technology Advancements**
 * **Thursday: Impact on Multi-Institutional Collaborations**
 * **Friday: Atlas and CMS sessions**
