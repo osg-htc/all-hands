@@ -9,7 +9,15 @@ invites you to attend:
   Virtual All-Hands Meeting
 </div>
 
-More details coming soon.
+Registration will open soon!
+
+## Daily Topics
+
+* **Monday:** State of OSG; David Swanson Award recipients; Impact on Research
+* **Tuesday:** Campus Services and Experiences; NSF Campus Cyberinfrastructure (CC*)
+* **Wednesday:** OSG Agility and Technology Advancements
+* **Thursday:** Impact on Multi-Institutional Collaborations
+* **Friday:** U.S. ATLAS and CMS Projects
 
 ## Contacts
 
