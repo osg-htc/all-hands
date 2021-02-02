@@ -9,23 +9,12 @@ invites you to attend:
   Virtual All-Hands Meeting
 </div>
 
-# OSG All-Hands Meeting 2020
-
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG)
-invites you to attend:
-
-<div style="border: 1px solid #3F51B5; color: #20295A; background-color: #E7E9F6; padding: 1ex; font-size: 115%; font-weight: bold;">
-  31 August&nbsp;&ndash;&nbsp;4 September 2020
-  <br>
-  Virtual All-Hands Meeting
-</div>
-
-**Registration is now open!** Registration is free but required, so
-[please take a minute to register now](https://indico.fnal.gov/event/INSERTLINK/registrations/).
+**Registration will open soon!** <!---Registration is free but required, so
+[please take a minute to register now](https://indico.fnal.gov/event/INSERTLINK/registrations/).--->
 
 An overview of the schedule is available on [the Schedule page](schedule.md),
-and the detailed schedule (in progress) is available in
-[the Indico scheduling system](https://indico.fnal.gov/event/INSERTLINK/timetable/).
+and the detailed schedule (in progress) will be available soon in
+[the Indico scheduling system](https://indico.fnal.gov/event/47040/timetable/).
 
 For meeting technology and other logistics, see
 [the Meeting Logistics page](technology.md).
