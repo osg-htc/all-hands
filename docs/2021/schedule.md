@@ -4,16 +4,6 @@ The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting
 2021 will be held Monday, March 1 through Friday,
 March 5.
 
-## Special Focus Areas
-
-* **Supporting researchers and their campuses**
-* **Science with GPUs and in the commercial cloud**
-* **Artificial Intelligence (AI) and Machine Learning (ML)**
-* How OSG helps transform science through access to vast computing resources
-* OSG partnerships with resource providers, science users, and other stakeholders
-* Training and education workshops
-
-
 ## Detailed Schedule Site
 
 The detailed schedule (in progress) will be available soon in
@@ -40,28 +30,23 @@ U.S. Central Time.  When the detailed schedule is settled, exact times may vary.
 
 **Monday, March 1**
 
-*   Session 1: State of the OSG 
-
-*   Session 2: Science Enabled via the Open Science Pool 
+*   Session 1: State of the OSG
+*   Session 2: Science Enabled via the Open Science Pool
 
 **Tuesday, March 2**
 
-*   Session 1: State of the OSG for Campuses and CC* Awards 
+*   Session 1: State of the OSG for Campuses and CC* Awards
+*   Session 2: Campus Perspectives
 
-*   Session 2:  Campus Perspectives 
-    
 **Wednesday, March 3**
 
-*   Session 1: OSG as an Agile Computing Environment 
+*   Session 1: OSG as an Agile Computing Environment
+*   Session 2: Evolving the OSG Fabric of Services
 
-*   Session 2: Evolving the OSG Fabric of Services 
+**Thursday, March 4**
 
-**Thursday, March 4** 
-
-*   Session 1: OSG and Multi-Institution Collaborations 
-
-*   Session 2: OSG Council (closed meeting, no discussion rooms) 
-
+*   Session 1: OSG and Multi-Institution Collaborations
+*   Session 2: OSG Council (closed meeting, no discussion rooms)
 
 **Friday, March 5**
 
