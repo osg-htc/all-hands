@@ -9,7 +9,7 @@ invites you to attend:
   Virtual All-Hands Meeting
 </div>
 
-**Registration will open soon!** <!---Registration is free but required, so
+**Registration will open soon!** <!--- Registration is free but required, so
 [please take a minute to register now](https://indico.fnal.gov/event/INSERTLINK/registrations/).--->
 
 An overview of the schedule is available on [the Schedule page](schedule.md),
