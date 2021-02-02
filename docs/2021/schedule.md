@@ -6,14 +6,18 @@ March 5.
 
 ## Special Focus Areas
 
-* Supporting researchers and their campuses
-* Science with GPUs and in the commercial cloud
-* Artificial Intelligence (AI) and Machine Learning (ML)
+* **Supporting researchers and their campuses**
+* **Science with GPUs and in the commercial cloud**
+* **Artificial Intelligence (AI) and Machine Learning (ML)**
+* How OSG helps transform science through access to vast computing resources
+* OSG partnerships with resource providers, science users, and other stakeholders
+* Training and education workshops
+
 
 ## Detailed Schedule Site
 
 The detailed schedule (in progress) is available in
-[the Indico scheduling system](https://indico.fnal.gov/event/22127/timetable/).
+[the Indico scheduling system](https://indico.fnal.gov/event/SETLINK/timetable/).
 
 ## Schedule Overview
 
