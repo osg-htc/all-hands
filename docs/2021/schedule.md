@@ -31,7 +31,9 @@ U.S. Central Time.  When the detailed schedule is settled, exact times may vary.
 
 *   Session 1 (90 min): 11:00 a.m. &ndash; 12:30 p.m.
 *   Break (60 min): 12:30 p.m. &ndash; 1:30 p.m.
-*   Session 2 (90 min): 1:30 p.m. &ndash; 3:00 p.m.
+*   Session 2 (90 min): 1:30 p.m. &ndash; 3:00 p.m.  
+*   Short break (10 min): 3:00 p.m. &ndash; 3:10 p.m.
+*   Discussion rooms (50 min): 3:10 p.m. &ndash; 4:00 p.m.
 
 
 ### Day-by-Day Schedule
