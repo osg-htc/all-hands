@@ -16,8 +16,8 @@ March 5.
 
 ## Detailed Schedule Site
 
-The detailed schedule (in progress) is available in
-[the Indico scheduling system](https://indico.fnal.gov/event/SETLINK/timetable/).
+The detailed schedule (in progress) will be available soon in
+[the Indico scheduling system](https://indico.fnal.gov/event/47040/timetable/).
 
 ## Schedule Overview
 
@@ -37,27 +37,32 @@ U.S. Central Time.  When the detailed schedule is settled, exact times may vary.
 
 ### Day-by-Day Schedule
 
-**Monday, August 31**
+**Monday, March 1**
 
-*   Session 1: State of the OSG
-*   Session 2: Science Enabled by OSG
+*   Session 1: State of the OSG (11:00 a.m. &ndash; 12:30 p.m.CST)
 
-**Tuesday, September 1**
+*   Session 2: Science Enabled via the Open Science Pool (1:30&ndash;3:00 p.m. CST)
 
-*   Session 1: David Swanson Memorial and David Swanson Award Speaker (starting 20 minutes early)
-*   Session 2: OSG on Campuses
+**Tuesday, March 2**
 
-**Wednesday, September 2**
+*   Session 1: State of the OSG for Campuses and CC* Awards (11:00 a.m. &ndash; 12:30 p.m.CST)
 
-*   Session 1: Artificial Intelligence, Machine Learning, GPUs, and the Cloud
-*   Session 2: OSG Technology Updates
+*   Session 2:  Campus Perspectives (1:30&ndash;3:00 p.m. CST)
+    
+**Wednesday, March 3**
 
-**Thursday, September 3**
+*   Session 1: OSG as an Agile Computing Environment (11:00 a.m. &ndash; 12:30 p.m.CST)
 
-*   Session 1: OSG and Multi-Institutional Collaborations (starting 15 minutes early)
-*   Session 2: OSG Council (closed meeting, no discussion rooms)
+*   Session 2: Evolving the OSG Fabric of Services (1:30&ndash;3:00 p.m. CST)
 
-**Friday, September 4**
+**Thursday, March 4** 
+
+*   Session 1: OSG and Multi-Institution Collaborations (11:00 a.m. &ndash; 12:30 p.m.CST)
+
+*   Session 2: OSG Council (closed meeting, no discussion rooms) 
+
+
+**Friday, March 5**
 
 The U.S. ATLAS and U.S. CMS high-energy physics projects are planning
 OSG-related topics for this day.
