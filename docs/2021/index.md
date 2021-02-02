@@ -9,7 +9,15 @@ invites you to attend:
   Virtual All-Hands Meeting
 </div>
 
-Registration will open soon!
+**Registration will open soon!** 
+
+An overview of the schedule is available on [the Schedule page](schedule.md),
+and the detailed schedule (in progress) will be available soon in
+[the Indico scheduling system](https://indico.fnal.gov/event/47040/timetable/).
+
+For meeting technology and other logistics, see
+[the Meeting Logistics page](technology.md).
+Note that Zoom connection details are emailed only to those who registered.
 
 ## Daily Topics
 
