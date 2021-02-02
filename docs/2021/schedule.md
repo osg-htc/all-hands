@@ -30,34 +30,33 @@ The typical daily schedule will be as follows, with all times shown in
 U.S. Central Time.  When the detailed schedule is settled, exact times may vary.
 
 *   Session 1 (90 min): 11:00 a.m. &ndash; 12:30 p.m.
-*   Break (60 min): 12:30&ndash;1:30 p.m.
-*   Session 2 (90 min): 1:30&ndash;3:00 p.m.
-*   Short break (10 min): 3:00&ndash;3:10 p.m.
-*   Discussion rooms (50 min): 3:10&ndash;4:00 p.m.
+*   Break (60 min): 12:30 p.m. &ndash; 1:30 p.m.
+*   Session 2 (90 min): 1:30 p.m. &ndash; 3:00 p.m.
+
 
 ### Day-by-Day Schedule
 
 **Monday, March 1**
 
-*   Session 1: State of the OSG (11:00 a.m. &ndash; 12:30 p.m.CST)
+*   Session 1: State of the OSG 
 
-*   Session 2: Science Enabled via the Open Science Pool (1:30&ndash;3:00 p.m. CST)
+*   Session 2: Science Enabled via the Open Science Pool 
 
 **Tuesday, March 2**
 
-*   Session 1: State of the OSG for Campuses and CC* Awards (11:00 a.m. &ndash; 12:30 p.m.CST)
+*   Session 1: State of the OSG for Campuses and CC* Awards 
 
-*   Session 2:  Campus Perspectives (1:30&ndash;3:00 p.m. CST)
+*   Session 2:  Campus Perspectives 
     
 **Wednesday, March 3**
 
-*   Session 1: OSG as an Agile Computing Environment (11:00 a.m. &ndash; 12:30 p.m.CST)
+*   Session 1: OSG as an Agile Computing Environment 
 
-*   Session 2: Evolving the OSG Fabric of Services (1:30&ndash;3:00 p.m. CST)
+*   Session 2: Evolving the OSG Fabric of Services 
 
 **Thursday, March 4** 
 
-*   Session 1: OSG and Multi-Institution Collaborations (11:00 a.m. &ndash; 12:30 p.m.CST)
+*   Session 1: OSG and Multi-Institution Collaborations 
 
 *   Session 2: OSG Council (closed meeting, no discussion rooms) 
 
