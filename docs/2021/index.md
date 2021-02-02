@@ -19,14 +19,13 @@ For meeting technology and other logistics, see
 [the Meeting Logistics page](technology.md).
 Note that Zoom connection details are emailed only to those who registered.
 
-## Topics
+## Daily Topics
 
-* **Supporting researchers and their campuses**
-* **Science with GPUs and in the commercial cloud**
-* **Artificial Intelligence (AI) and Machine Learning (ML)**
-* How OSG helps transform science through access to vast computing resources
-* OSG partnerships with resource providers, science users, and other stakeholders
-* Training and education workshops
+* **Monday:** State of OSG; David Swanson Award recipients; Impact on Research
+* **Tuesday:** Campus Services and Experiences; NSF Campus Cyberinfrastructure (CC*)
+* **Wednesday:** OSG Agility and Technology Advancements
+* **Thursday:** Impact on Multi-Institutional Collaborations
+* **Friday:** U.S. ATLAS and CMS Projects
 
 ## Contacts
 
@@ -36,7 +35,3 @@ For questions or comments, please email
 * Frank Würthwein, OSG Executive Director and Meeting Chair
 * Lauren Michael, OSG Research Facilitation Team Lead
 * Tim Cartwright, OSG Deputy Executive Director
-
-
-
-
