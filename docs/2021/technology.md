@@ -3,11 +3,6 @@
 ## Zoom
 
 We will use [Zoom](https://zoom.us/) for the OSG All-Hands Meeting this year.
-If you have not used Zoom before&hellip; where have you been the past 12 months?
-😄
-Anyway, be sure to download the client from the [Zoom website](https://zoom.us/download),
-because there are impostors out there.
-
 For security reasons,
 we will email links to the Zoom meetings directly to the email addresses
 provided during [registration](registration.md).
