@@ -9,7 +9,8 @@ invites you to attend:
   Virtual All-Hands Meeting
 </div>
 
-**Registration will open soon!** 
+**Registration is now open!** Registration is free but required, so
+[please take a minute to register now](https://indico.fnal.gov/event/47040/registrations/2899/).
 
 An overview of the schedule is available on [the Schedule page](schedule.md),
 and the detailed schedule (in progress) will be available soon in
