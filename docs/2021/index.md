@@ -13,8 +13,7 @@ invites you to attend:
 [please take a minute to register now](https://indico.fnal.gov/event/47040/registrations/2899/).
 
 An overview of the schedule is available on [the Schedule page](schedule.md),
-and the detailed schedule (in progress) will be available soon in
-[the Indico scheduling system](https://indico.fnal.gov/event/47040/timetable/).
+and the detailed schedule can be found on [the Indico scheduling system](https://indico.fnal.gov/event/47040/timetable/).
 
 For meeting technology and other logistics, see
 [the Meeting Logistics page](technology.md).
