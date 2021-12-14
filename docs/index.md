@@ -1,16 +1,22 @@
 # OSG All-Hands Meetings
 
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG) has an annual All-Hands Meeting for users, resource
-providers, staff, and other people who are interested in what we do and how we do it.  The meeting is usually hosted by
-an OSG resource provider and so the location varies each year.
+[OSG](https://www.opensciencegrid.org/) has an annual All-Hands Meeting
+for users, resource providers, staff, and other people who are interested in what we do and how we do it.
+The meeting is usually hosted by an OSG resource provider and so the location varies each year.
 
 ## Upcoming Meeting
 
-The [OSG All-Hands Meeting 2021](2021/index.md) will be held March 1&ndash;5
-online.
+The [OSG All-Hands Meeting 2022](2022/index.md) will be held
+March 14&ndash;18
+in a hybrid format,
+with the in-person component at the University of Oklahoma
+and the online component on Zoom.
 
 ## Prior Events
 
+* [OSG All-Hands Meeting 2021](2021/index.md),
+  online
+  ([agenda](https://indico.fnal.gov/event/47040/))
 * [OSG All-Hands Meeting 2020](2020/index.md),
   online
   ([agenda](https://indico.fnal.gov/event/22127/))
