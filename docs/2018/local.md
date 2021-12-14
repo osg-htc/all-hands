@@ -15,7 +15,7 @@ each day&rsquo;s schedule.
 ## Transportation
 
 Salt Lake City is easy to navigate, and most roads are laid out on a simple north-south/east-west grid system.  There is
-[a local shorthand](http://www.exploreutah.com/GettingAround/Navigating_Utahs_Streets.shtml) for describing locations
+[a local shorthand](https://utahrails.net/articles/sl-county-streets.php) for describing locations
 relative to the city center (Temple Square), which is very logical but may take a bit of getting used to.  The
 University is east of the center, nestled up against the mountains, and the airport is to the west.  All the usual
 mapping tools will help get you around town.
