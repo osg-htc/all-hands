@@ -10,12 +10,8 @@
   Online: Zoom
 </div>
 
-Details on registration (in-person or online), costs (in-person only), facilities,
+Details on registration (in-person and online), costs (in-person only), facilities,
 and so forth will be posted soon (January).
-
-## Topics
-
-**TBD**
 
 ## Format
 
@@ -27,8 +23,29 @@ We are planning a hybrid event:
    attend workshops or training events,
    and join hack-a-thons.
 
-*  Everyone can enjoy the same kind of presentations and discussions as in the past 2 years,
+*  In addition, everyone can enjoy the same kind of presentations and discussions as in the past 2 years,
    whether in-person or online.
+
+## Topics
+
+Focus areas for 2022 will include:
+
+*   State of OSG and vision for its future
+*   New types of resources that support new types of applications
+*   Research that benefitted from OSG
+*   Campus services and experiences, and NSF Campus Cyberinfrastructure (CC*)
+*   Impact on multi-institutional collaborations, including U.S. LHC Projects
+
+## Logistics
+
+In-person participation will include a standard registration fee;
+online-only participation will continue to be free.
+Required registration for both components will open in January 2022.
+
+Note that there will be an initial registration deadline of February 17.
+If at least 30 people register for the in-person components by that date,
+we can proceed with the hybrid event;
+otherwise, we will have to cancel the in-person components and have just the online components.
 
 ## Contacts
 
