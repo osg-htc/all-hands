@@ -16,7 +16,8 @@ There are many resources for travel in Utah, here are a few to get started:
 ## Group Ski Trip on Friday, March 23
 
 Want to experience the &ldquo;Greatest Snow on Earth&rdquo;?  There are
-[four ski resorts](https://www.visitsaltlake.com/skicity/resorts/) that are close to the OSG All-Hands Meeting.
+[four ski resorts](https://www.visitsaltlake.com/things-to-do/skiing-snowboarding/ski-resorts/)
+that are close to the OSG All-Hands Meeting.
 [Tim Theisen](mailto:tim@cs.wisc.edu), OSG Release Manager, has offered to organize a ski/snowboard trip to a nearby ski
 resort on Friday, March 23.  Let him know if you are interested, either by email or by using the checkbox on the
 registration form.
