@@ -10,42 +10,43 @@
   Online: Zoom
 </div>
 
+We are planning a <span style="font-weight: bold; color: #FF6600;">hybrid event</span>:
+The **online parts** will have presentations and discussions as in the past 2 years,
+and the **in-person parts** (scheduled around the online program) will focus on interaction.
+
 Details on registration (in-person and online), costs (in-person only), facilities,
 and so forth will be posted soon (January).
 
-## Format
+## Online Program
 
-We are planning a hybrid event:
+*   **Monday**: State of OSG; David Swanson Award speaker; Impact on Research
+*   **Tuesday**: Democratizing Access to Cyberinfrastructure; Campus Services and Perspectives
+*   **Wednesday**: Integrating a Diversity of Capacity Resources into dHTC Pools; OSG Technology
+*   **Thursday**: Impact on Multi-Institutional Collaborations
+*   **Friday**: U.S. ATLAS and CMS Projects
 
-*  If you register for and travel to the University of Oklahoma for the in-person components,
-   you can mingle with colleagues,
-   have planned or ad hoc meetings,
-   attend workshops or training events,
-   and join hack-a-thons.
+## In-Person Program
 
-*  In addition, everyone can enjoy the same kind of presentations and discussions as in the past 2 years,
-   whether in-person or online.
+Note that the in-person program will be Monday through Wednesday only.
+There will be structued (but optional) events, plus unstructured time to mingle with colleagues.
+Current plans, which may change, include:
 
-## Topics
-
-Focus areas for 2022 will include:
-
-*   State of OSG and vision for its future
-*   New types of resources that support new types of applications
-*   Research that benefitted from OSG
-*   Campus services and experiences, and NSF Campus Cyberinfrastructure (CC*)
-*   Impact on multi-institutional collaborations, including U.S. LHC Projects
+*   Speak with Researchers
+*   Hybrid User Office Hours
+*   Site Admin Office Hours
+*   Technology Chalkboard Time (Q&A with drawings!)
 
 ## Logistics
 
 In-person participation will include a standard registration fee;
 online-only participation will continue to be free.
-Required registration for both components will open in January 2022.
+Registration for both parts will open in January 2022.
 
-Note that there will be an initial registration deadline of February 17.
-If at least 30 people register for the in-person components by that date,
-we can proceed with the hybrid event;
-otherwise, we will have to cancel the in-person components and have just the online components.
+Note that the deadline for registration for the in-person parts is February 17.
+If at least 30 people register for the in-person parts by that date,
+and if enough staff are available,
+we plan to proceed with the hybrid event;
+otherwise, we will have to cancel the in-person parts and have just the online parts.
 
 ## Contacts
 
