@@ -9,14 +9,14 @@ While the details may change, the high-level schedule below is expected to remai
 
 ### Typical Daily Schedule
 
-The typical daily schedule will be as follows, with all times shown in
-U.S. Central Time.  Exact daily times may vary.
+The typical daily schedule will be as follows, with all times shown in U.S. Central Time.
+Exact daily times may vary.
 
-*   Session 1 (90 min): 11:00 a.m. &ndash; 12:30 p.m.
-*   Break (60 min): 12:30 p.m. &ndash; 1:30 p.m.
-*   Session 2 (90 min): 1:30 p.m. &ndash; 3:00 p.m.
-*   Short break (10 min): 3:00 p.m. &ndash; 3:10 p.m.
-*   Discussion rooms (50 min): 3:10 p.m. &ndash; 4:00 p.m.
+*   Session 1 (90 min): 10:30 a.m. &ndash; 12:00 p.m.
+*   Break (60 min): 12:00 p.m. &ndash; 1:00 p.m.
+*   Session 2 (90 min): 1:00 p.m. &ndash; 2:30 p.m.
+*   Short break (10 min): 2:30 p.m. &ndash; 2:40 p.m.
+*   Discussion rooms (50 min): 2:40 p.m. &ndash; 3:30 p.m.
 
 ### Day-by-Day Virtual Schedule
 
@@ -42,5 +42,4 @@ U.S. Central Time.  Exact daily times may vary.
 
 **Friday, March 18**
 
-The U.S. ATLAS and U.S. CMS high-energy physics projects are planning
-OSG-related topics for this day.
+The U.S. ATLAS and U.S. CMS high-energy physics projects are planning OSG-related topics for this day.
