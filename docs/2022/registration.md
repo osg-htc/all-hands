@@ -1,5 +1,7 @@
 # OSG All-Hands Meeting 2022 &ndash; Registration
 
+## Registration for the In-Person Parts
+
 ## Costs
 
 Registration for the in-person OSG All-Hands Meeting 2022 costs **$70**, which includes:
