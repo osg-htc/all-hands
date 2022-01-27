@@ -15,7 +15,7 @@ If OSG cancels the in-person parts, you will receive a full refund of your regis
 
 ### In-person registration deadline
 
-The deadline for registration for the in-person parts is February 17. If at least 30 people register for the in-person parts by that date, and if enough staff are available, we plan to proceed with the hybrid event; otherwise, we will have to cancel the in-person parts and have just the online parts.
+The deadline for registration for the in-person parts is **February 17**. If at least 30 people register for the in-person parts by that date, and if enough staff are available, we plan to proceed with the hybrid event; otherwise, we will have to cancel the in-person parts and have just the online parts.
 
 
 ### Registering for in-person attendance
