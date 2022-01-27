@@ -20,7 +20,7 @@ The deadline for registration for the in-person parts is February 17. If at leas
 
 ### Registering for in-person attendance
 
-There are separate registration forms for the in-person and virtual only sessions. Please register only once for either the in-person or the virtual.  If you register for in-person you do NOT need to also register for the virtual sessions. 
+There are separate registration forms: one for the in-person and one for the virtual only sessions. Please register only once for either the in-person or the virtual.  If you register for in-person you do NOT need to also register for the virtual sessions. 
 
 The registration systems for the in-person and virtual will be linked from here very soon.
 
