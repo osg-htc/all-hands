@@ -7,7 +7,7 @@
 Registration for the in-person OSG All-Hands Meeting 2022 costs **$70**, which includes:
 
 * Attendance Monday through Wednesday (Thursday and Friday are virtual only)
-* morning snacks, afteroon snacks, and beverages throughout
+* morning snacks (light breakfast), afteroon snacks, and beverages throughout
 
 If OSG cancels the in-person parts, you will receive a full refund of your registration fee. 
 
