@@ -7,7 +7,7 @@ If you have questions that are not addressed below, please email us at events@op
 
 **Q: Where can I get information about COVID at University of Oklahoma (OU)?**
 
-A: The [OU Together website](https://www.ou.edu/together) is the central OU resource for
+**A:** The [OU Together website](https://www.ou.edu/together) is the central OU resource for
 COVID resources, policies, and so forth.
 We think it is best to read their information directly, rather than us providing a potentially inaccurate summary.
 
@@ -15,7 +15,7 @@ OSG All-Hands Meeting attendees are expected to comply with all OU policies.
 
 **Q: What is the mask policy for the OSG All-Hands Meeting itself?**
 
-A: See the [OU Together website](https://www.ou.edu/together) for OU’s policy on masking.
+**A:** See the [OU Together website](https://www.ou.edu/together) for OU’s policy on masking.
 Additionally, OSG will require that all OSG All-Hands Meeting attendees wear masks while indoors at the meeting venue,
 unless briefly while eating.
 
@@ -25,7 +25,7 @@ for up-to-date recommendations on wearing masks and wear the best mask that you 
 
 **Q: What is the vaccination policy for the OSG All-Hands Meeting itself?**
 
-In general, OU recommends vaccination, masking, and social distancing.
+**A:** In general, OU recommends vaccination, masking, and social distancing.
 Again, see the the [OU Together website](https://www.ou.edu/together) for details.
 
 OSG’s understanding is that, as sponsored guests of an Oklahoma state institution, we cannot require vaccines for attendees.
