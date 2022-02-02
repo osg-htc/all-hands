@@ -9,7 +9,7 @@ Exact daily times may vary.
 
 **Monday, March 14**
 
-*   Speak with the Reasearchers - Q & A Hybrid (Both In-Person and Virtual)  3:30 - 5 pm
+*   Speak with the Researchers - Q & A Hybrid (Both In-Person and Virtual)  3:30 - 5 pm
 *   Team Hackathon (Hybrid) 3:30 - 5 pm 
 
 **Tuesday, March 15**
