@@ -1,19 +1,12 @@
 
 # OSG All-Hands Meeting 2022 &ndash; Schedule (In-Person)
 
-In addition to the virtual parts of the [OSG](https://www.opensciencegrid.org) All-Hands Meeting 2022, in-person events will events will be held. 
+In addition to the virtual parts of the [OSG](https://www.opensciencegrid.org) All-Hands Meeting 2022, there will be in-person (or hybrid) events each afternoon, Monday through Wednesday. 
 
-
-## In-Person Schedule Overview
-
-While some details may change, the high-level in-peson schedule is: 
-
-### Typical Daily Schedule
+### Day-by-Day In-Person Schedule
 
 All times shown in U.S. Central Time.
 Exact daily times may vary.
-
-### Day-by-Day In-Person Schedule
 
 **Monday, March 14**
 
