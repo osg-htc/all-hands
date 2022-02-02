@@ -10,7 +10,7 @@ Exact daily times may vary.
 **Monday, March 14**
 
 *   Speak with the Researchers - Q & A Hybrid (Both In-Person and Virtual)  3:30 - 5 pm
-*   Team Hackathon (Hybrid) 3:30 - 5 pm 
+*   Site Admin Office Hours (Hybrid) 3:00- 4:30 pm 
 
 **Tuesday, March 15**
 
