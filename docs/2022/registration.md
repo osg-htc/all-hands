@@ -31,11 +31,11 @@ otherwise, we will cancel the in-person parts and have just the online parts.
 ## Registration for Online Attendance
 
 To register for the online-only parts of the All-Hands Meeting,
-[follow this link] to the Indico registration system.
+[follow this link](https://indico.fnal.gov/event/53029/registrations/) to the Indico registration system.
 
 Registration for only online attendance is free,
 but is required for security reasons.
 If you hope to attend any of the online event, please register now;
 it takes only a couple minutes:
 
-https://indico.fnal.gov/event/53029/registrations/
+[https://indico.fnal.gov/event/53029/registrations/](https://indico.fnal.gov/event/53029/registrations/)
