@@ -14,8 +14,10 @@ We are planning a <span style="font-weight: bold; color: #FF6600;">hybrid event<
 The **online parts** will have presentations and discussions as in the past 2 years,
 and the **in-person parts** (scheduled around the online program) will focus on interaction.
 
-Details on registration (in-person and online), costs (in-person only), facilities,
-and so forth will be posted soon (January).
+**Registration is now open!**
+Please visit [the registration page](registration.md) for details and links.
+Be sure to register for **only one** part of the event and
+note that registration for in-person attendance includes the online parts.
 
 ## Online Program
 
@@ -25,24 +27,22 @@ and so forth will be posted soon (January).
 *   **Thursday**: Impact on Multi-Institutional Collaborations
 *   **Friday**: U.S. ATLAS and CMS Projects
 
+For more information, see [the online schedule page](schedule-virtual.md).
+The complete online program will be posted on [the Indico website](https://indico.fnal.gov/event/53029/timetable/)
+as it becomes available.
+
 ## In-Person Program
 
-Note that the in-person program will be Monday through Wednesday only.
+The in-person program will be **Monday through Wednesday** only.
 There will be structued (but optional) events, plus unstructured time to mingle with colleagues.
-Current plans, which may change, include:
+[Current plans](schedule-in-person.md), which may change, include:
 
 *   Speak with Researchers
-*   Hybrid User Office Hours
+*   User Office Hours (hybrid)
 *   Site Admin Office Hours
 *   Technology Chalkboard Time (Q&A with drawings!)
 
-## Logistics
-
-In-person participation will include a standard registration fee;
-online-only participation will continue to be free.
-Registration for both parts will open in January 2022.
-
-Note that the deadline for registration for the in-person parts is February 17.
+**Note that the deadline for registration for the in-person parts is February 17.**
 If at least 30 people register for the in-person parts by that date,
 and if enough staff are available,
 we plan to proceed with the hybrid event;
