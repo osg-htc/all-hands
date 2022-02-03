@@ -24,11 +24,3 @@ The meeting with be hosted in the [Thurman J. White Forum Building](https://pacs
 - Conference rate: $129.00/night + taxes
 - Check in time is 4 p.m., check out time is noon
 
-### [Holiday Inn Express](https://www.ihg.com/holidayinnexpress/hotels/us/en/norman/okcnn/hoteldetail)
-
-- Located about [6 miles from the conference venues](https://www.google.com/maps/dir/Thurman+J.+White+Forum+Building,+1704+Asp+Ave,+Norman,+OK+73072/2500+Conference+Dr,+Norman,+OK+73069/@35.2125912,-97.4999295,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x87b2682eef70daf9:0xa545a18f3b614551!2m2!1d-97.4452463!2d35.1979906!1m5!1m1!1s0x87b269819b564ebd:0x3c3e98ae6971b4bd!2m2!1d-97.4790909!2d35.2422391!3e0)
-- Reserve a room:
-    - On their website (Coming Soon)
-    - Call [405-928-5300](tel:405-928-5300) and use 'OSG All hands meeting' to get special rate
-- Conference rate: $99.00/night + taxes
-- Check in time is 3 p.m., check out time is 11 a.m.
