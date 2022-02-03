@@ -38,7 +38,7 @@ There will be structued (but optional) events, plus unstructured time to mingle 
 [Current plans](schedule-in-person.md), which may change, include:
 
 *   Speak with Researchers
-*   Hybrid User Office Hours
+*   User Office Hours (hybrid)
 *   Site Admin Office Hours
 *   Technology Chalkboard Time (Q&A with drawings!)
 
