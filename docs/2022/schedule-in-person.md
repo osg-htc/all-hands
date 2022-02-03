@@ -1,22 +1,27 @@
 # OSG All-Hands Meeting 2022 &ndash; Schedule (In-Person)
 
-In addition to the virtual parts of the [OSG](https://www.opensciencegrid.org) All-Hands Meeting 2022, there will be in-person or hybrid events (both in-person and virtual) each afternoon, Monday through Wednesday. 
+In addition to the virtual parts of the [OSG](https://www.opensciencegrid.org) All-Hands Meeting 2022,
+there will be in-person or hybrid events (both in-person and virtual) each morning and afternoon,
+Monday through Wednesday. 
 
-### Day-by-Day In-Person Schedule
+## In-Person Schedule
 
 All times shown in U.S. Central Time.
 Exact daily times may vary.
 
 **Monday, March 14**
 
-*   Speak with the Researchers - Q & A Hybrid (Both In-Person and Virtual)  3:30 - 5 pm
-*   Site Admin Office Hours (Hybrid) 3:00- 4:30 pm 
+*   9:00–10:30 a.m.: Open time to interact with colleagues
+*   3:30–5:00 p.m.: Speak with the Researchers - Q & A Hybrid (Both In-Person and Virtual)
+*   3:30–5:00 p.m.: Site Admin Office Hours (Hybrid)
 
 **Tuesday, March 15**
 
-*   User Office Hours (Hybrid) 3:00 - 4:30 pm
-*   Site Admin Office Hours (Hybrid) 3:00 - 4:30 pm
+*   9:00–10:30 a.m.: Open time to interact with colleagues
+*   3:30–5:00 p.m.: User Office Hours (Hybrid)
+*   3:30–5:00 p.m.: Site Admin Office Hours (Hybrid)
 
 **Wednesday, March 16**
 
-*   White Board Technology Q & A lead by Brian Bockelman 3:00 - 4:00
+*   9:00–10:30 a.m.: Open time to interact with colleagues
+*   3:30–4:30 p.m.: White Board Technology Q&A led by Brian Bockelman
