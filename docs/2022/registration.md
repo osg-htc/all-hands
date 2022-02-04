@@ -2,7 +2,7 @@
 
 <span style="color: #FF6600;">Pick <strong>one</strong> required registration option:</span>
 
-*   Register for in-person attendance at the University of Oklahoma (online parts included) &mdash; $70
+*   Register for in-person attendance at OU (online parts included) &mdash; $70
 *   Register for online attendance **only** &mdash; free
 
 ## Registration for In-Person Attendance
@@ -36,6 +36,4 @@ To register for the online-only parts of the All-Hands Meeting,
 Registration for only online attendance is free,
 but is required for security reasons.
 If you hope to attend any of the online event, please register now;
-it takes only a couple minutes:
-
-[https://indico.fnal.gov/event/53029/registrations/](https://indico.fnal.gov/event/53029/registrations/)
+it takes only a couple minutes.
