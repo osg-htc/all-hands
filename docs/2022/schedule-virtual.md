@@ -1,4 +1,4 @@
-# OSG All-Hands Meeting 2022 &ndash; Schedule (Virtual)
+# OSG AHM 2022 &ndash; Schedule (Virtual)
 
 The virtual parts of the [OSG](https://www.opensciencegrid.org) All-Hands Meeting 2022
 will be held Monday, March 14 through Friday, March 18.

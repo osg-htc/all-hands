@@ -1,4 +1,4 @@
-# OSG All-Hands Meeting 2022 &ndash; Registration
+# OSG AHM 2022 &ndash; Registration
 
 <span style="color: #FF6600;">Pick <strong>one</strong> required registration option:</span>
 
