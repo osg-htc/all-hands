@@ -1,4 +1,4 @@
-# OSG All-Hands Meeting 2022 &ndash; COVID Information
+# OSG AHM 2022 &ndash; COVID Information
 
 Currently, OSG is planning an in-person component to the OSG All-Hands Meeting 2022.
 Of course, we understand that people have questions about COVID policies and procedures for in-person attendance.

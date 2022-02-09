@@ -1,4 +1,4 @@
-# OSG All-Hands Meeting 2022 - Hotels
+# OSG AHM 2022 - Hotels
 
 The [OSG](https://osg-htc.org) All-Hands Meeting 2022 will be held March 14-18, with the in-person component spanning March 14-16. 
 The meeting will be hosted in the [Thurman J. White Forum Building](https://pacs.ou.edu/about/conference-services/location/) 
