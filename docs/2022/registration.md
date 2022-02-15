@@ -28,6 +28,10 @@ and if enough staff are available,
 we plan to proceed with the hybrid event;
 otherwise, we will cancel the in-person parts and have just the online parts.
 
+ **What are the masking requirements for the event?**
+
+A: See the [OU Together website](https://www.ou.edu/together) for OU’s policy on masking. OSG will require that all OSG All-Hands Meeting attendees wear masks while indoors at the meeting venue, unless briefly removed while eating. See the [OSG AHM covid page](https://opensciencegrid.org/all-hands/2022/covid-information/) for more information. 
+
 ## Registration for Online Attendance
 
 To register for the online-only parts of the All-Hands Meeting,
