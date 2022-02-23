@@ -9,11 +9,10 @@ nav:
   - Home: index.md
   - 2022:
     - General Info: 2022/index.md
-    - Schedule (Virtual): 2022/schedule-virtual.md
-    - Schedule (In-Person): 2022/schedule-in-person.md
+    - Schedule: 2022/schedule-virtual.md
+    - In-Person - Cancelled: 2022/schedule-in-person.md
     - Registration: 2022/registration.md
-    - COVID Info: 2022/covid-information.md
-    - Hotel Info: 2022/hotels.md
+    
   - 2021:
     - General Info: 2021/index.md
     - Schedule: 2021/schedule.md
