@@ -1,11 +1,17 @@
 # OSG AHM 2022 &ndash; Registration
 
-<span style="color: #FF6600;">Pick <strong>one</strong> required registration option:</span>
 
-*   Register for in-person attendance at OU (online parts included) &mdash; $70
-*   Register for online attendance **only** &mdash; free
+## Registration for Online Attendance
 
-## Registration for In-Person Attendance
+To register for the virtual All-Hands Meeting,
+[follow this link](https://indico.fnal.gov/event/53029/registrations/) to the Indico registration system.
+
+Registration is free,
+but is required for security reasons.
+If you hope to attend any of the online event, please register now;
+it takes only a couple minutes.
+
+## In-Person Attendance - Cancelled
 
 To register,
 [follow this link](https://oupacsrcc-web.ungerboeck.net/reg/reg_p1_form.aspx?oc=10&ct=PART&eventid=10048)
@@ -28,16 +34,5 @@ and if enough staff are available,
 we plan to proceed with the hybrid event;
 otherwise, we will cancel the in-person parts and have just the online parts.
 
-**What are the masking requirements for the event?**
 
-A: See the [OU Together website](https://www.ou.edu/together) for OU’s policy on masking. OSG will require that all OSG All-Hands Meeting attendees wear masks while indoors at the meeting venue, unless briefly removed while eating. See the [OSG AHM covid page](https://opensciencegrid.org/all-hands/2022/covid-information/) for more information.
 
-## Registration for Online Attendance
-
-To register for the online-only parts of the All-Hands Meeting,
-[follow this link](https://indico.fnal.gov/event/53029/registrations/) to the Indico registration system.
-
-Registration for only online attendance is free,
-but is required for security reasons.
-If you hope to attend any of the online event, please register now;
-it takes only a couple minutes.
