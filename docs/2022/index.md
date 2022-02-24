@@ -23,8 +23,9 @@ so [please take a minute to register now](https://indico.fnal.gov/event/53029/re
 *   **Thursday**: Impact on Multi-Institutional Collaborations
 *   **Friday**: U.S. ATLAS and CMS Projects
 
-For more information, see [the online schedule page](schedule.md).
-The complete online program will be posted on [the Indico website](https://indico.fnal.gov/event/53029/timetable/)
+For more information, see [the schedule page](schedule.md).
+The complete program will be posted on
+[the Indico website](https://indico.fnal.gov/event/53029/timetable/)
 as it becomes available.
 
 ## Contacts

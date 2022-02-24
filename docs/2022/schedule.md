@@ -1,9 +1,9 @@
-# OSG AHM 2022 &ndash; Schedule (Virtual)
+# OSG AHM 2022 &ndash; Schedule
 
-The virtual parts of the [OSG](https://www.opensciencegrid.org) All-Hands Meeting 2022
+The [OSG](https://www.opensciencegrid.org) All-Hands Meeting 2022
 will be held Monday, March 14 through Friday, March 18.
 
-## Virtual Schedule Overview
+## Schedule Overview
 
 While the details may change, the high-level schedule below is expected to remain.
 
@@ -18,7 +18,10 @@ Exact daily times may vary.
 *   Short break (10 min): 2:30 p.m. &ndash; 2:40 p.m.
 *   Discussion rooms (50 min): 2:40 p.m. &ndash; 3:30 p.m.
 
-### Day-by-Day Virtual Schedule
+On Tuesday and Wednesday, there will be extra, interactive sessions from 3:30&ndash;4:30 p.m.
+Check here and the detailed Indico schedule closer to the event for details.
+
+### Day-by-Day Schedule
 
 **Monday, March 14**
 
