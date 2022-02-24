@@ -1,19 +1,18 @@
 # OSG All-Hands Meeting 2022
 
-[OSG](https://www.opensciencegrid.org/) invite you to attend:
+[OSG](https://www.opensciencegrid.org/) invites you to attend:
 
 <div style="border: 1px solid #3F51B5; color: #20295A; background-color: #E7E9F6; padding: 1ex; font-size: 115%; font-weight: bold;">
   14&ndash;18 March 2022
   <br>
-  Online: Zoom
+  Virtual All-Hands Meeting
 </div>
 
-We are planning a <span style="font-weight: bold; color: #FF6600;">virtual event, following the format of the past 2 years.</span>:
-
 **Registration is now open!**
-Please visit [the registration page](registration.md) for details and links.
+Registration is free but required,
+so [please take a minute to register now](https://indico.fnal.gov/event/53029/registrations/).
 
-## Online Program
+## Program Summary
 
 *   **Monday**: State of OSG; David Swanson Award speaker; Impact on Research
 *   **Tuesday**: Democratizing Access to Cyberinfrastructure; Campus Services and Perspectives
@@ -29,6 +28,3 @@ as it becomes available.
 
 For questions or comments, please email
 [our events mailing list](mailto:events@opensciencegrid.org).
-
-* Frank Würthwein, OSG Executive Director and Meeting Chair
-* Horst Severini, Local Chair
