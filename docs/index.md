@@ -8,9 +8,7 @@ The meeting is usually hosted by an OSG resource provider and so the location va
 
 The [OSG All-Hands Meeting 2022](2022/index.md) will be held
 March 14&ndash;18
-in a hybrid format,
-with the in-person component at the University of Oklahoma
-and the online component on Zoom.
+in a virtual (Zoom) format.
 
 ## Prior Events
 
