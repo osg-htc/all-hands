@@ -8,6 +8,9 @@
   Virtual All-Hands Meeting
 </div>
 
+**Note:** OSG was planning a hybrid event, but the in-person component was cancelled due to low registration.
+For refund information, see [the Registration page](registration.md).
+
 **Registration is now open!**
 Registration is free but required,
 so [please take a minute to register now](https://indico.fnal.gov/event/53029/registrations/).
@@ -20,7 +23,7 @@ so [please take a minute to register now](https://indico.fnal.gov/event/53029/re
 *   **Thursday**: Impact on Multi-Institutional Collaborations
 *   **Friday**: U.S. ATLAS and CMS Projects
 
-For more information, see [the online schedule page](schedule-virtual.md).
+For more information, see [the online schedule page](schedule.md).
 The complete online program will be posted on [the Indico website](https://indico.fnal.gov/event/53029/timetable/)
 as it becomes available.
 
