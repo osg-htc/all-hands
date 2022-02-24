@@ -8,6 +8,9 @@
   Virtual All-Hands Meeting
 </div>
 
+**Note:** OSG was planning a hybrid event, but the in-person component was cancelled due to low registration.
+For refund information, see [the Registration page](registration.md).
+
 **Registration is now open!**
 Registration is free but required,
 so [please take a minute to register now](https://indico.fnal.gov/event/53029/registrations/).

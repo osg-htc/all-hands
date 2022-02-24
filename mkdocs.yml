@@ -9,9 +9,8 @@ nav:
   - Home: index.md
   - 2022:
     - General Info: 2022/index.md
-    - Schedule: 2022/schedule-virtual.md
+    - Schedule: 2022/schedule.md
     - Registration: 2022/registration.md
-    
   - 2021:
     - General Info: 2021/index.md
     - Schedule: 2021/schedule.md
