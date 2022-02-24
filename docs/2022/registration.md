@@ -5,10 +5,10 @@ To register,
 to the Indico registration system.
 
 Registration is free but required for security reasons.
-If you hope to attend any of the online event, please register now;
+If you hope to attend any of the event, please register now;
 it takes only a couple minutes.
 
-**Note on registration refunds for in-person attendance**
+**Note on registration refunds for in-person attendance:**
 
 The in-person component of this year’s was cancelled on 18 February 2022.
 
