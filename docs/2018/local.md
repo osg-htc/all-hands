@@ -24,7 +24,7 @@ Here are some transportation resources for the University and Salt Lake City:
 
 * [Transportation help from the University Guest House](https://www.universityguesthouse.com/Location-Transportation)
 * [Transportation help from the University International office](https://isss.utah.edu/students/life-at-the-u/transportation.php)
-* [Salt Lake City International Airport](https://www.slcairport.com)
+* [Salt Lake City International Airport](https://slcairport.com)
 * [Utah Transit Authority (UTA)](https://www.rideuta.com)&nbsp;&ndash; bus and TRAX light rail in Salt Lake City area
 * [University of Utah shuttle bus](https://commuterservices.utah.edu/campus-shuttle/) and [Live Shuttle Tracking](https://www.uofubus.com)
 * [Uber](https://www.uber.com/airports/slc/) and [Lyft](https://www.lyft.com/airports/slc) are both active at the airport and around the city
