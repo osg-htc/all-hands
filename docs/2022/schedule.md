@@ -3,25 +3,12 @@
 The [OSG](https://www.opensciencegrid.org) All-Hands Meeting 2022
 will be held Monday, March 14 through Friday, March 18.
 
-## Schedule Overview
+## Detailed Schedule Site
 
-While the details may change, the high-level schedule below is expected to remain.
+The detailed schedule is available in
+[the Indico scheduling system](https://indico.fnal.gov/event/53029/timetable/).
 
-### Typical Daily Schedule
-
-The typical daily schedule will be as follows, with all times shown in U.S. Central Time.
-Exact daily times may vary.
-
-*   Session 1 (90 min): 10:30 a.m. &ndash; 12:00 p.m.
-*   Break (60 min): 12:00 p.m. &ndash; 1:00 p.m.
-*   Session 2 (90 min): 1:00 p.m. &ndash; 2:30 p.m.
-*   Short break (10 min): 2:30 p.m. &ndash; 2:40 p.m.
-*   Discussion rooms (50 min): 2:40 p.m. &ndash; 3:30 p.m.
-
-On Tuesday and Wednesday, there will be extra, interactive sessions from 3:30&ndash;4:30 p.m.
-Check here and the detailed Indico schedule closer to the event for details.
-
-### Day-by-Day Schedule
+### Day-by-Day Overview
 
 **Monday, March 14**
 
@@ -32,11 +19,13 @@ Check here and the detailed Indico schedule closer to the event for details.
 
 *   Session 1: Democratizing access to cyberinfrastructure
 *   Session 2: Campus services and perspectives (including CC*)
+*   Parallel sessions: OSG User Office Hours and Site Admin Office Hours
 
 **Wednesday, March 16**
 
 *   Session 1: Integrating a diversity of capacity resources into dHTC pools
 *   Session 2: OSG technology
+*   Technology Q&A Chalk Talk
 
 **Thursday, March 17**
 
