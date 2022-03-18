@@ -4,14 +4,11 @@
 for users, resource providers, staff, and other people who are interested in what we do and how we do it.
 The meeting is usually hosted by an OSG resource provider and so the location varies each year.
 
-## Upcoming Meeting
-
-The [OSG All-Hands Meeting 2022](2022/index.md) will be held
-March 14&ndash;18
-in a virtual (Zoom) format.
-
 ## Prior Events
 
+* [OSG All-Hands Meeting 2022](2022/index.md),
+  online
+  ([agenda](https://indico.fnal.gov/event/53029/))
 * [OSG All-Hands Meeting 2021](2021/index.md),
   online
   ([agenda](https://indico.fnal.gov/event/47040/))
