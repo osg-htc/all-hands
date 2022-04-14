@@ -1,6 +1,5 @@
 name: Deploy static MkDocs pages
 on:
-  workflow_dispatch
   push:
     branches: [ master ]
 
