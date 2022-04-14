@@ -1,6 +1,6 @@
 # OSG All-Hands Meeting 2021
 
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG)
+The [OSG](https://www.osg-htc.org) (OSG)
 invites you to attend:
 
 <div style="border: 1px solid #3F51B5; color: #20295A; background-color: #E7E9F6; padding: 1ex; font-size: 115%; font-weight: bold;">

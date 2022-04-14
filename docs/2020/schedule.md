@@ -1,6 +1,6 @@
 # OSG All-Hands Meeting 2020 &ndash; Schedule
 
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting
+The [OSG](https://www.osg-htc.org) (OSG) All-Hands Meeting
 2020 will be held Monday, August 31 through Friday,
 September 4 (rescheduled from March).
 

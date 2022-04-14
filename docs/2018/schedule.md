@@ -1,6 +1,6 @@
 # OSG All-Hands Meeting 2018 &ndash; Schedule
 
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting 2018 will be held March 19&ndash;22.
+The [OSG](https://www.osg-htc.org) (OSG) All-Hands Meeting 2018 will be held March 19&ndash;22.
 
 ## High-Level Schedule
 

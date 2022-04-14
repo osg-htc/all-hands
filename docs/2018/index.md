@@ -1,6 +1,6 @@
 # OSG All-Hands Meeting 2018
 
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and the [University of Utah](https://www.utah.edu) invite
+The [OSG](https://www.osg-htc.org) and the [University of Utah](https://www.utah.edu) invite
 you to attend:
 
 <div style="border: 1px solid #3F51B5; color: #20295A; background-color: #E7E9F6; padding: 1ex; font-size: 115%; font-weight: bold;">

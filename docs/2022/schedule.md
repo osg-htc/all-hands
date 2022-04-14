@@ -1,6 +1,6 @@
 # OSG AHM 2022 &ndash; Schedule
 
-The [OSG](https://www.opensciencegrid.org) All-Hands Meeting 2022
+The [OSG](https://www.osg-htc.org) All-Hands Meeting 2022
 will be held Monday, March 14 through Friday, March 18.
 
 ## Detailed Schedule Site

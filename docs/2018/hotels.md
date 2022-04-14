@@ -1,6 +1,6 @@
 # OSG All-Hands Meeting 2018 &ndash; Hotels
 
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting 2018 will be held March 19&ndash;22 at
+The [OSG](https://www.osg-htc.org) (OSG) All-Hands Meeting 2018 will be held March 19&ndash;22 at
 the [University of Utah](https://www.utah.edu/).  The meeting itself will be in the [Officers
 Club](https://www.universityguesthouse.com/Officers-Club) (150 S Fort Douglas Blvd).
 

@@ -1,6 +1,6 @@
 site_name: OSG All-Hands Meetings
-site_url: https://opensciencegrid.org/all-hands/
-repo_url: https://github.com/opensciencegrid/all-hands/
+site_url: https://osg-htc.org/all-hands/
+repo_url: https://github.com/osg-htc/all-hands/
 theme:
   name: material
   favicon: img/favicon.ico

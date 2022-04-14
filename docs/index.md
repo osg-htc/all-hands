@@ -1,6 +1,6 @@
 # OSG All-Hands Meetings
 
-[OSG](https://www.opensciencegrid.org/) has an annual All-Hands Meeting
+[OSG](https://www.osg-htc.org) has an annual All-Hands Meeting
 for users, resource providers, staff, and other people who are interested in what we do and how we do it.
 The meeting is usually hosted by an OSG resource provider and so the location varies each year.
 

@@ -1,6 +1,6 @@
 # OSG All-Hands Meeting 2021 &ndash; Schedule
 
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG) All-Hands Meeting
+The [OSG](https://www.osg-htc.org) (OSG) All-Hands Meeting
 2021 will be held Monday, March 1 through Friday,
 March 5.
 
