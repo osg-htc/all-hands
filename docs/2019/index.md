@@ -1,6 +1,6 @@
 # OSG All-Hands Meeting 2019
 
-The [Open Science Grid](https://www.opensciencegrid.org) (OSG) and [Thomas Jefferson National Accelerator
+The [Open Science Grid](https://osg-htc.org) (OSG) and [Thomas Jefferson National Accelerator
 Facility](https://www.jlab.org) (JLab) invite you to attend:
 
 <div style="border: 1px solid #3F51B5; color: #20295A; background-color: #E7E9F6; padding: 1ex; font-size: 115%; font-weight: bold;">
