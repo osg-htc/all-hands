@@ -26,7 +26,7 @@ Staff will watch for questions in the Everyone chat.
 
 We want all participants to be able to enjoy the meeting equally,
 so we expect everyone to follow the
-[OSG Code of Conduct](https://opensciencegrid.org/management/conduct/).
+[OSG Code of Conduct](https://osg-htc.org/management/conduct/).
 
 ## Information for Presenters
 

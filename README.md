@@ -6,8 +6,8 @@ This repository contains the source for the OSG All Hands Meeting pages
 
 ## Other OSG documentation on Github
 
-- [OSG Council](https://opensciencegrid.github.io/council)
-- [OSG Production](https://opensciencegrid.github.io/production)
+- [OSG Council](https://osg-htc.org/council)
+- [OSG Production](https://osg-htc.org/production)
 
 ## Resources
 
